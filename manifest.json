@@ -1,0 +1,16 @@
+{
+  "name": "Debt Consolidation vs Bankruptcy -- The Definitive Guide",
+  "short_name": "Consolidation vs BK",
+  "description": "Comprehensive comparison of debt consolidation programs and bankruptcy. Success rates, total costs, credit impact, and who profits. Real information, no strings.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
