@@ -63,52 +63,7 @@
 </script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is debt consolidation better than bankruptcy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It depends on your situation. Debt consolidation works best when you have stable income, your total unsecured debt is under $15,000, and you can realistically pay it off within 3-5 years. Bankruptcy is often the better option when debt exceeds 40% of annual income, you are being sued or garnished, or consolidation would take more than 5 years. Consolidation completion rates are under 50%, while bankruptcy discharge rates exceed 95%."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the success rate of debt consolidation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Studies consistently show that fewer than 50% of people who enter debt management plans complete them. The National Foundation for Credit Counseling and Cambridge Credit Counseling have both reported completion rates in the 40-50% range. Debt settlement programs have even lower success rates, with many consumers dropping out after paying thousands in fees."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does debt consolidation hurt your credit more than bankruptcy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bankruptcy causes a larger initial credit score drop (typically 130-240 points), but recovery is often faster because the debt is eliminated. With consolidation, scores may drop 30-80 points initially, but if you cannot keep up with payments, the ongoing damage from missed payments, collections, and lawsuits can be worse over time. Research shows most bankruptcy filers reach a 640+ credit score within 2-3 years."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much does debt consolidation really cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Debt management plans typically charge $25-75 per month in fees plus a setup fee of $25-50. Consolidation loans charge interest rates of 6-36% depending on credit. Debt settlement companies charge 15-25% of enrolled debt. On $30,000 of debt, a 5-year consolidation loan at 15% costs about $12,900 in interest alone. A Chapter 7 bankruptcy filing costs $338 in court fees plus attorney fees of $1,000-2,500."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I file bankruptcy after trying debt consolidation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. There is no rule that prevents you from filing bankruptcy after attempting consolidation. However, payments made to creditors through consolidation programs within 90 days before filing may be recoverable as preferential transfers. Also, new debt taken on through consolidation loans shortly before filing could be challenged as non-dischargeable if the creditor can show fraud."
-      }
-    }
-  ]
-}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is debt consolidation better than bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "It depends on your situation. Debt consolidation works best when you have stable income, your total unsecured debt is under $15,000, and you can realistically pay it off within 3-5 years. Bankruptcy is often the better option when debt exceeds 40% of annual income, you are being sued or garnished, or consolidation would take more than 5 years. Consolidation completion rates are under 50%, while bankruptcy discharge rates exceed 95%."}}, {"@type": "Question", "name": "What is the success rate of debt consolidation?", "acceptedAnswer": {"@type": "Answer", "text": "Studies consistently show that fewer than 50% of people who enter debt management plans complete them. The National Foundation for Credit Counseling and Cambridge Credit Counseling have both reported completion rates in the 40-50% range. Debt settlement programs have even lower success rates, with many consumers dropping out after paying thousands in fees."}}, {"@type": "Question", "name": "Does debt consolidation hurt your credit more than bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Bankruptcy causes a larger initial credit score drop (typically 130-240 points), but recovery is often faster because the debt is eliminated. With consolidation, scores may drop 30-80 points initially, but if you cannot keep up with payments, the ongoing damage from missed payments, collections, and lawsuits can be worse over time. Research shows most bankruptcy filers reach a 640+ credit score within 2-3 years."}}, {"@type": "Question", "name": "How much does debt consolidation really cost?", "acceptedAnswer": {"@type": "Answer", "text": "Debt management plans typically charge $25-75 per month in fees plus a setup fee of $25-50. Consolidation loans charge interest rates of 6-36% depending on credit. Debt settlement companies charge 15-25% of enrolled debt. On $30,000 of debt, a 5-year consolidation loan at 15% costs about $12,900 in interest alone. A Chapter 7 bankruptcy filing costs $338 in court fees plus attorney fees of $1,000-2,500."}}, {"@type": "Question", "name": "Can I file bankruptcy after trying debt consolidation?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. There is no rule that prevents you from filing bankruptcy after attempting consolidation. However, payments made to creditors through consolidation programs within 90 days before filing may be recoverable as preferential transfers. Also, new debt taken on through consolidation loans shortly before filing could be challenged as non-dischargeable if the creditor can show fraud."}}, {"@type": "Question", "name": "What is the difference between debt consolidation and bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Debt consolidation combines multiple debts into one payment, usually through a personal loan or balance transfer, and you repay 100% of what you owe. Bankruptcy is a federal court proceeding that either eliminates debt entirely (Chapter 7) or restructures it into affordable payments (Chapter 13)."}}, {"@type": "Question", "name": "When should I file bankruptcy instead of consolidating?", "acceptedAnswer": {"@type": "Answer", "text": "Consider bankruptcy when your debt exceeds 40% of your gross income, you are being sued or garnished, you cannot afford consolidation payments, or you have already tried consolidation and fallen behind again. Bankruptcy provides legal protections -- like the automatic stay -- that consolidation does not."}}]}
 </script>
 
 <script type="application/ld+json">
@@ -339,6 +294,11 @@
     a { color: #000; text-decoration: underline; }
     .content-section { border-color: #ccc; background: #f9f9f9; }
   }
+.faq-section{margin:2rem 0}
+.faq-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem}
+.faq-item{background:var(--surface);border:1px solid var(--border);border-radius:8px;margin:.75rem 0;padding:1rem 1.5rem}
+.faq-item h3{color:var(--text);font-size:1rem;margin-bottom:.5rem}
+.faq-item p{color:var(--text-muted);font-size:.95rem;margin:0}
 </style>
 </head>
 <body>
@@ -474,7 +434,7 @@
         <tr>
           <td>Legal Protection</td>
           <td>None</td>
-          <td><a href="https://automaticstay.org?utm_source=debtconsolidationvsbankruptcy.com&utm_medium=referral&utm_campaign=btn-network" title="Automatic Stay in Bankruptcy -- Open Bankruptcy Project" target="_blank" rel="noopener">Automatic stay</a> (immediate)</td>
+          <td><a href="https://automaticstay.org?utm_source=debtconsolidationvsbankruptcy.com&utm_medium=referral&utm_campaign=btn-network" title="Automatic Stay in Bankruptcy -- Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay protection in bankruptcy</a> (immediate)</td>
           <td>Automatic stay (immediate)</td>
         </tr>
         <tr>
@@ -586,7 +546,24 @@
     <p>Full analysis: <a href="/credit-impact.html">Credit Score Impact Over Time</a></p>
   </div>
 
-  <div class="cta-box">
+  
+  <div class="faq-section">
+    <h2>Frequently Asked Questions</h2>
+    <div class="faq-item">
+      <h3>Is debt consolidation better than bankruptcy?</h3>
+      <p>It depends on your situation. Debt consolidation works best when you have steady income, your total debt is less than 40% of annual income, and you can pay it off within 5 years. Bankruptcy may be the better option when debt is overwhelming, creditors are suing, or consolidation payments are unaffordable.</p>
+    </div>
+    <div class="faq-item">
+      <h3>What is the difference between debt consolidation and bankruptcy?</h3>
+      <p>Debt consolidation combines multiple debts into one payment, usually through a personal loan or balance transfer, and you repay 100% of what you owe. Bankruptcy is a federal court proceeding that either eliminates debt entirely (Chapter 7) or restructures it into affordable payments (Chapter 13).</p>
+    </div>
+    <div class="faq-item">
+      <h3>When should I file bankruptcy instead of consolidating?</h3>
+      <p>Consider bankruptcy when your debt exceeds 40% of your gross income, you are being sued or garnished, you cannot afford consolidation payments, or you have already tried consolidation and fallen behind again. Bankruptcy provides legal protections -- like the automatic stay -- that consolidation does not.</p>
+    </div>
+  </div>
+
+<div class="cta-box">
     <h3>Not Sure Which Path Is Right?</h3>
     <p>Use the calculator to compare total costs based on your actual numbers.</p>
     <div class="cta-links">
