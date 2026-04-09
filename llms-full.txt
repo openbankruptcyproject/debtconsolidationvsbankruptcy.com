@@ -1,0 +1,2810 @@
+# debtconsolidationvsbankruptcy.com -- Full Content
+
+This file contains the full text content of all pages on debtconsolidationvsbankruptcy.com.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Debt Consolidation vs Bankruptcy Calculator -- Compare Total Costs
+Source: https://debtconsolidationvsbankruptcy.com/calculator.html
+
+Skip to main content
+
+DebtConsolidationvsBankruptcy.com
+☰
+
+Home
+Consolidation
+Bankruptcy
+Costs
+Credit Impact
+Success Rates
+Who Profits
+Calculator
+FAQ
+
+Should I Consolidate or File?
+
+Enter your numbers. See the math. No data is collected or transmitted -- everything runs in your browser.
+
+Network › Consolidation vs Bankruptcy › Calculator
+
+Consolidation vs Bankruptcy Calculator
+
+Total unsecured debt ($)
+
+Expected consolidation interest rate (%)
+
+Consolidation term (years)
+
+Origination / enrollment fee (%)
+
+Monthly program fee ($) (for DMPs)
+
+Estimated bankruptcy attorney fee ($)
+
+Compare Options
+
+Results
+
+Factor
+Consolidation
+Chapter 7 Bankruptcy
+
+Monthly payment----
+
+Total interest paid----
+
+Total fees----
+
+Total out of pocket----
+
+Timeline----
+
+Debt remaining after----
+
+Estimated success rate----
+
+Important: This calculator provides estimates for educational purposes only. Actual costs vary by location, provider, and individual circumstances. This is not financial or legal advice. Consult a licensed attorney or financial advisor.
+
+How This Calculator Works
+
+Consolidation: Uses standard amortization formula to calculate monthly payments and total interest. Adds origination fee and monthly program fees.
+
+Bankruptcy: Uses a flat cost model: $338 court filing fee + attorney fee + ~$40 for required credit counseling courses.
+
+No data is collected. All calculations run entirely in your browser. Nothing is sent to any server. You can verify this by viewing the page source.
+
+Related Tools
+
+Means Test Calculator -- See if you qualify for Chapter 7
+
+Discharge Eligibility Screener -- Check your discharge eligibility
+
+Detailed Cost Comparison -- Full analysis with multiple scenarios
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Free and open-source. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on debt relief alternatives and comparison:
+
+CFPB: Debt Relief Options
+CFPB comparison
+
+FTC: Settling Credit Card Debt
+FTC guide
+
+FTC: Choosing a Credit Counselor
+FTC guide
+
+Credit Counseling Agencies
+DOJ list
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Debt Settlement Research
+Google Scholar
+
+Related Guides
+
+Debt Relief or Bankruptcy?
+
+Free bankruptcy information guide
+
+debtrelieforbankruptcy.com →
+
+Settlement vs Bankruptcy
+
+Settlement vs bankruptcy: which saves more?
+
+debtsettlementvsbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Bankruptcy Cost Breakdown
+
+Full cost breakdown for Chapter 7 and 13
+
+howmuchdoesbankruptcycost.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+meanstest.org
+chapter7vs13.org
+howmuchdoesbankruptcycost.com
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Debt Consolidation vs Bankruptcy: Head-to-Head Comparison (2026)
+Source: https://debtconsolidationvsbankruptcy.com/comparison.html
+
+Skip to main content
+
+DebtConsolidationvsBankruptcy.com
+☰
+
+Home
+Comparison
+Consolidation
+Bankruptcy
+Costs
+Credit Impact
+Success Rates
+FAQ
+
+Debt Consolidation vs Bankruptcy
+
+The head-to-head comparison. Every factor that matters, side by side. No company selling either one wrote this.
+
+Consolidation completion rate: under 50%
+
+Bankruptcy discharge rate: 95%+
+
+The right choice depends on your debt level, income, and whether you are being sued.
+
+Network › Consolidation vs Bankruptcy › Comparison
+
+The Complete Comparison Table
+
+FactorDebt ConsolidationChapter 7 BankruptcyChapter 13 Bankruptcy
+
+Success rateUnder 50% complete93%+ discharge~48% discharge
+
+Timeline3-5 years3-4 months3-5 years
+
+Total cost on $30K debt$35,000-$43,000$1,400-$2,900$3,300-$5,300 + plan
+
+Monthly paymentsRequired (loan/DMP)NoneRequired
+
+Stops lawsuits?NoYes (automatic stay)Yes (automatic stay)
+
+Stops garnishment?NoYesYes
+
+Stops collection calls?Some (through DMP)Yes (all)Yes (all)
+
+Credit score drop30-80 points130-240 points100-200 points
+
+Time on credit reportAccount closed (3-5 years)10 years7 years
+
+Credit recovery to 640+During repayment (if completed)12-24 monthsAfter 3-5 year plan
+
+Tax consequencesNone (you pay full amount)None (discharge is tax-free)None
+
+Debt eliminatedNone -- you repay 100%+ interestAll qualifying unsecured debtPartial (through plan)
+
+EligibilityDecent credit or stable incomeMust pass means testRegular income required
+
+Legal protectionNoneFederal court orderFederal court order
+
+Repeat useAnytime8-year wait for second Ch 72-year wait for second Ch 13
+
+Types of Debt Consolidation
+
+1. Consolidation Loan
+
+A new loan (personal loan, home equity loan, or balance transfer card) that pays off your existing debts, leaving you with one monthly payment at a lower interest rate.
+
+Interest rates: 6-36% depending on credit score
+
+Term: 2-7 years
+
+Best for: People with good credit (680+) and moderate debt
+
+Risk: If you use a home equity loan, your house is collateral. Miss payments and you lose your home.
+
+2. Debt Management Plan (DMP)
+
+A nonprofit credit counseling agency negotiates lower interest rates with your creditors. You make one monthly payment to the agency, which distributes it to creditors.
+
+Fees: $25-75/month plus setup fee
+
+Term: 3-5 years
+
+Completion rate: Studies show 40-50%
+
+Risk: If you miss a payment, creditors can reinstate original interest rates and resume collection
+
+3. Balance Transfer Credit Card
+
+Transfer high-interest balances to a card with 0% introductory APR for 12-21 months.
+
+Transfer fee: 3-5% of balance
+
+Best for: Small balances you can pay off during the 0% period
+
+Risk: After the intro period, rates jump to 20-29%. If you have not paid it off, you are worse than where you started.
+
+The Real Cost Comparison
+
+On $30,000 of credit card debt at 22% APR:
+
+OptionMonthly PaymentDurationTotal PaidInterest/Fees Paid
+
+Minimum payments only~$60015+ years$70,000+$40,000+
+
+Consolidation loan (15%)$7145 years$42,850$12,850
+
+Debt management plan (10%)$6375 years$38,200$8,200 + fees
+
+Balance transfer (0% for 18 mo)$1,66718 months$30,900$900 (transfer fee)
+
+Chapter 7 bankruptcy$03-4 months$1,400-$2,900$0 (filing costs only)
+
+The comparison shows the difference. On $30,000 of debt, consolidation costs $8,000-$13,000 in interest/fees and takes 5 years. Chapter 7 costs under $3,000, takes 4 months, and the entire $30,000 is gone. The only cost of Chapter 7 is the credit report impact -- which most people recover from in 2 years.
+
+When Consolidation Is the Better Choice
+
+Consolidation makes sense when ALL of the following are true:
+
+Total unsecured debt is under $15,000. At this level, the interest cost is manageable and bankruptcy may feel disproportionate.
+
+You have stable income with no risk of job loss, medical emergency, or other disruption over the next 3-5 years.
+
+Your credit score is 680+, qualifying you for a reasonable interest rate (under 12%).
+
+You are not being sued or garnished. Consolidation provides zero legal protection.
+
+You can pay it off in 3 years or less. Longer timelines dramatically increase total cost and dropout risk.
+
+You will not accumulate new debt during the repayment period.
+
+Honest assessment: Most people considering consolidation do not meet all of these criteria. If even one is missing, the risk of failure is significant -- and failed consolidation often leads to bankruptcy anyway, after wasting years and thousands of dollars.
+
+When Bankruptcy Is the Better Choice
+
+Bankruptcy is typically the better option when ANY of the following are true:
+
+Total debt exceeds 40% of annual income. At this ratio, repayment plans are rarely sustainable.
+
+You are being sued or garnished. Only the automatic stay in bankruptcy stops legal action immediately.
+
+You have multiple types of debt. Consolidation usually handles credit cards only; bankruptcy covers everything -- medical bills, personal loans, utility arrears, lease obligations, judgments.
+
+Consolidation would take more than 5 years. Long repayment timelines have extremely high failure rates.
+
+Your income is unstable. Job changes, contract work, commission-based pay -- any income disruption can collapse a consolidation plan.
+
+You tried consolidation and it failed. This is common. Do not throw more money at a strategy that already did not work.
+
+The Credit Score Reality
+
+The credit impact is the primary reason people choose consolidation over bankruptcy. But the numbers tell a more nuanced story.
+
+Consolidation credit path
+
+Initial drop: 30-80 points (hard inquiry + new account)
+
+During repayment: gradual improvement as balances decrease
+
+Completion: significant boost (accounts show paid in full)
+
+If you fail: Missed payments, collections, potential lawsuits -- credit damage can be worse than bankruptcy
+
+Bankruptcy credit path
+
+Initial drop: 130-240 points (bankruptcy filing)
+
+6-12 months: credit begins recovering (no debt, clean DTI ratio)
+
+12-24 months: most filers reach 640+ (FHA mortgage eligible at 2 years)
+
+3-5 years: 700+ scores are common for responsible rebuilding
+
+Key insight: Bankruptcy causes more damage upfront but provides a clean foundation for rebuilding. Consolidation causes less initial damage but suppresses your score for 3-5 years while you repay. If consolidation fails, you get the worst of both worlds: years of damage AND no debt relief.
+
+What Consolidation Companies Do Not Tell You
+
+Creditors can still sue you. A consolidation loan or DMP provides zero legal protection. If a creditor decides to file a lawsuit, garnish your wages, or levy your bank account, consolidation does nothing to stop it.
+
+Completion rates are dismal. Under 50% of people who enter debt management plans finish them. The rest drop out, often after paying thousands in fees and interest.
+
+You are paying back 100% plus interest. Consolidation does not reduce your debt. You repay every dollar plus interest. Bankruptcy eliminates the debt entirely.
+
+New debt accumulation. Research shows that many people who consolidate credit card debt accumulate new credit card debt during repayment, ending up worse than before.
+
+The "lower rate" may not be lower. If your credit is damaged, a consolidation loan at 20% is barely better than the credit cards at 22%. The savings are negligible.
+
+Home equity loans put your house at risk. Converting unsecured credit card debt into a home equity loan means your house is now collateral. If you default, you lose your home -- something that could not have happened with the original credit card debt.
+
+The Consolidation-to-Bankruptcy Pipeline
+
+A common pattern we see in federal court data:
+
+Consumer has $25,000+ in credit card debt
+
+Takes out a consolidation loan or enters a DMP
+
+Makes payments for 12-24 months ($8,000-$15,000 paid)
+
+Income disruption (job loss, medical emergency, divorce)
+
+Falls behind on consolidation payments
+
+Creditors resume collection, lawsuits filed
+
+Files bankruptcy -- but has $8,000-$15,000 less than when they started
+
+The money spent on failed consolidation does not come back. Every dollar paid toward a consolidation that eventually leads to bankruptcy is a dollar wasted. This is the strongest argument for considering bankruptcy first when debt levels are high.
+
+The Decision Framework
+
+Answer these five questions to determine which option fits your situation:
+
+Is your total unsecured debt more than 40% of your annual income?
+Yes = Bankruptcy is likely better. No = Continue.
+
+Are you being sued, garnished, or threatened with legal action?
+Yes = Bankruptcy (only option that provides legal protection). No = Continue.
+
+Can you realistically pay off all debt within 3 years?
+No = Bankruptcy. Yes = Continue.
+
+Is your income stable and predictable for the next 3-5 years?
+No = Bankruptcy (consolidation failure risk is too high). Yes = Continue.
+
+Is your credit score above 680?
+No = Bankruptcy (you will not get a good consolidation rate). Yes = Consolidation may work.
+
+If you answered "No" to any question, bankruptcy is likely the more effective and cost-efficient solution.
+
+Check Your Bankruptcy Eligibility
+
+Not sure if you qualify for Chapter 7?
+
+Means Test Calculator
+Discharge Screener
+
+Related Resources
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of bankruptcy chapters
+
+Debt Settlement vs Bankruptcy -- How settlement compares
+
+automaticstay.org -- How the automatic stay stops lawsuits and garnishment
+
+howmuchdoesbankruptcycost.com -- What bankruptcy actually costs
+
+debtvalidationletter.org -- Challenge debts before considering either option
+
+523a.org -- Which debts survive bankruptcy
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on debt relief alternatives and comparison:
+
+CFPB: Debt Relief Options
+CFPB comparison
+
+FTC: Settling Credit Card Debt
+FTC guide
+
+FTC: Choosing a Credit Counselor
+FTC guide
+
+Credit Counseling Agencies
+DOJ list
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Debt Settlement Research
+Google Scholar
+
+Related Guides
+
+Debt Relief or Bankruptcy?
+
+Free bankruptcy information guide
+
+debtrelieforbankruptcy.com →
+
+Settlement vs Bankruptcy
+
+Settlement vs bankruptcy: which saves more?
+
+debtsettlementvsbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Bankruptcy Cost Breakdown
+
+Full cost breakdown for Chapter 7 and 13
+
+howmuchdoesbankruptcycost.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+debtsettlementvsbankruptcy.com
+chapter7vs13.org
+meanstest.org
+automaticstay.org
+howmuchdoesbankruptcycost.com
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Cost Comparison: Debt Consolidation vs Bankruptcy -- Total Cost Analysis
+Source: https://debtconsolidationvsbankruptcy.com/cost-comparison.html
+
+Skip to main content
+
+DebtConsolidationvsBankruptcy.com
+☰
+
+Home
+Consolidation
+Bankruptcy
+Costs
+Credit Impact
+Success Rates
+Who Profits
+Calculator
+FAQ
+
+Total Cost Comparison
+
+Consolidation fees, interest, and hidden costs vs bankruptcy filing fees. The numbers the debt relief industry hopes you never see.
+
+Network › Consolidation vs Bankruptcy › Cost Comparison
+
+The $20,000 Debt Scenario
+
+Cost Component
+Consolidation Loan (15% APR, 5yr)
+DMP (3% rate, 5yr)
+Debt Settlement
+Chapter 7
+
+Principal repaid$20,000$20,000$10,000-$14,000$0
+
+Interest paid$8,560$1,550$0$0
+
+Origination/setup fees$600$50$0$0
+
+Monthly/program fees$0$2,400-$3,600$3,000-$5,000$0
+
+Attorney fees$0$0$0$1,000-$2,000
+
+Filing fee$0$0$0$338
+
+Tax on forgiven debt$0$0$1,500-$2,500$0
+
+Total out of pocket$29,160$24,000-$25,200$14,500-$21,500$1,338-$2,338
+
+Timeline5 years5 years2-4 years3-4 months
+
+The $30,000 Debt Scenario
+
+Cost Component
+Consolidation Loan (15%, 5yr)
+DMP (3%, 5yr)
+Chapter 7
+
+Principal repaid$30,000$30,000$0
+
+Interest paid$12,840$2,325$0
+
+Fees$900$2,450-$3,650$0
+
+Attorney + filing$0$0$1,500-$2,800
+
+Total out of pocket$43,740$34,775-$35,975$1,500-$2,800
+
+Savings vs consolidation loan--$7,765-$8,965$40,940-$42,240
+
+On $30,000 of debt, Chapter 7 bankruptcy saves $40,000+ compared to a consolidation loan. Even compared to a best-case DMP, bankruptcy saves over $32,000. And it takes 3-4 months instead of 5 years.
+
+The $50,000 Debt Scenario
+
+Cost Component
+Consolidation Loan (18%, 7yr)
+Chapter 7
+Difference
+
+Principal$50,000$0$50,000
+
+Interest$37,200$0$37,200
+
+Fees$2,500$2,800($300)
+
+Total$89,700$2,800$86,900 saved
+
+Timeline7 years3-4 months6.5+ years saved
+
+Hidden Costs of Consolidation
+
+The numbers above only include direct financial costs. Consolidation carries additional hidden costs:
+
+Opportunity cost: Money spent on consolidation payments could be saved, invested, or used to rebuild. Over 5 years at $600/month, that is $36,000 in earning potential lost.
+
+Stress and health costs: 3-5 years of tight budgets and the constant risk of falling behind takes a documented toll on mental and physical health.
+
+Risk of failure: With under 50% completion rates, there is a better-than-even chance you will pay thousands and still end up needing bankruptcy -- at which point you have lost both the consolidation payments and the time.
+
+No legal protection: During consolidation, creditors can still sue you. A single lawsuit can wipe out everything you have paid toward the consolidation.
+
+The Break-Even Formula
+
+Total cost of consolidation = Principal + Total interest + All fees + Tax on forgiven debt (if settlement)
+
+Total cost of Chapter 7 = Filing fee ($338) + Attorney fee + Credit counseling (~$40)
+
+If consolidation total > bankruptcy total, bankruptcy is the cheaper option.
+
+For most people with more than $10,000 in unsecured debt, bankruptcy is significantly cheaper. Use the interactive calculator to run your own numbers.
+
+Related Resources
+
+Interactive Calculator -- Enter your numbers and compare total costs
+
+How Much Does Bankruptcy Cost? -- Complete guide to filing fees and attorney costs
+
+Success Rates -- Completion rates that affect total cost
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Free and open-source. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on debt relief alternatives and comparison:
+
+CFPB: Debt Relief Options
+CFPB comparison
+
+FTC: Settling Credit Card Debt
+FTC guide
+
+FTC: Choosing a Credit Counselor
+FTC guide
+
+Credit Counseling Agencies
+DOJ list
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Debt Settlement Research
+Google Scholar
+
+Related Guides
+
+Debt Relief or Bankruptcy?
+
+Free bankruptcy information guide
+
+debtrelieforbankruptcy.com →
+
+Settlement vs Bankruptcy
+
+Settlement vs bankruptcy: which saves more?
+
+debtsettlementvsbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Bankruptcy Cost Breakdown
+
+Full cost breakdown for Chapter 7 and 13
+
+howmuchdoesbankruptcycost.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+howmuchdoesbankruptcycost.com
+chapter7vs13.org
+meanstest.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Credit Score Impact: Debt Consolidation vs Bankruptcy Over Time
+Source: https://debtconsolidationvsbankruptcy.com/credit-impact.html
+
+Skip to main content
+
+DebtConsolidationvsBankruptcy.com
+☰
+
+Home
+Consolidation
+Bankruptcy
+Costs
+Credit Impact
+Success Rates
+Who Profits
+Calculator
+FAQ
+
+Credit Score Impact Over Time
+
+Bankruptcy causes a bigger initial drop. But recovery is often faster -- because the debt is actually gone.
+
+Network › Consolidation vs Bankruptcy › Credit Impact
+
+The 7-10 Year Myth
+
+The most common reason people avoid bankruptcy is the belief that it "ruins your credit for 7-10 years." This is technically true in only one narrow sense: the notation of bankruptcy remains on your credit report for 7 years (Chapter 13) or 10 years (Chapter 7).
+
+But the notation is not the same as the impact. Credit scores begin recovering immediately after discharge. The notation becomes less significant with each passing year, and within 2-3 years, most bankruptcy filers have credit scores competitive with or better than people still struggling with debt.
+
+Key insight: A credit report showing $30,000 in discharged debt and no current obligations is more attractive to lenders than a report showing $30,000 in active, delinquent debt with collection accounts and judgments.
+
+Credit Score Timeline: Bankruptcy vs Consolidation
+
+Time
+After Bankruptcy (Ch. 7)
+During Successful Consolidation
+After Failed Consolidation
+
+Day 1
+Drop 130-240 points
+Drop 30-50 points (hard inquiry + account closure)
+Drop 30-50 points
+
+6 months
+Recovery begins; 530-580 typical
+Stable or slight improvement
+Declining (missed payments begin)
+
+1 year
+580-620 typical
+Stable
+Significant damage (collections, late marks)
+
+2 years
+620-660 typical
+Slight improvement
+Severe damage (judgments, garnishments)
+
+3 years
+640-680+ typical
+Modest improvement if on track
+May be filing bankruptcy now anyway
+
+5 years
+680-720+ (many reach "good" range)
+Recovery complete (if plan finished)
+Still recovering from damage
+
+Why Bankruptcy Recovery Is Faster Than Expected
+
+1. Debt-to-Income Ratio Resets
+
+After discharge, your debt-to-income ratio drops dramatically. This is one of the most important factors in credit decisions. Lenders care more about your current ability to repay than a past bankruptcy notation.
+
+2. No More Negative Reporting
+
+Once debts are discharged, creditors cannot report new negative information about those debts. During consolidation, every late payment, every over-limit charge, every collection account continues to damage your score month after month.
+
+3. Credit Rebuilding Starts Immediately
+
+Secured credit cards, credit-builder loans, and authorized user accounts are available immediately after discharge. Each on-time payment builds positive history that gradually outweighs the bankruptcy notation.
+
+4. The "Fresh Start" Effect
+
+With no monthly debt payments consuming income, bankruptcy filers can save, build emergency funds, and maintain financial stability -- all of which prevent the missed payments that would re-damage credit.
+
+The Consolidation Credit Trap
+
+What happens to your credit during consolidation is often worse than advertised:
+
+Account closures: DMPs require closing enrolled credit card accounts. This reduces your available credit, increases your utilization ratio, and can drop your score 30-50 points immediately.
+
+Notations: Some creditors report DMP enrollment to credit bureaus. This can affect future lending decisions even if payments are current.
+
+Failed consolidation is the worst outcome: If you enter a consolidation program, make payments for 18 months, and then cannot continue, you have a credit report showing: the original delinquencies, the account closures, 18 months of DMP notation, and then new delinquencies when you drop out. The damage is cumulative and severe.
+
+What Lenders Actually Look At
+
+The credit score is just one factor. When lenders evaluate applications, they also consider:
+
+Current income and stability: Bankruptcy filers with steady income are often approved within months of discharge
+
+Current debt load: Zero debt after bankruptcy is a strong positive signal
+
+Recent payment history: 12+ months of on-time payments after bankruptcy matters more than the bankruptcy itself
+
+Time since bankruptcy: The impact diminishes significantly after 2-3 years
+
+Real-world result: Many Chapter 7 filers qualify for FHA mortgages within 2 years of discharge, auto loans within 6-12 months, and unsecured credit cards within 3-6 months.
+
+Bottom Line
+
+If you are choosing between consolidation and bankruptcy primarily because of credit score fears, know this: bankruptcy causes a larger initial drop but a faster and more complete recovery, because the underlying debt is eliminated. Consolidation causes a smaller initial drop but ongoing vulnerability -- and if it fails (which happens more than half the time), the cumulative credit damage can be worse than bankruptcy ever would have been.
+
+Related Resources
+
+Success Rates -- Consolidation completion rates vs bankruptcy discharge rates
+
+When Consolidation Fails -- The credit impact of failed consolidation
+
+The Discharge Injunction -- Your legal protection after bankruptcy
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Free and open-source. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on debt relief alternatives and comparison:
+
+CFPB: Debt Relief Options
+CFPB comparison
+
+FTC: Settling Credit Card Debt
+FTC guide
+
+FTC: Choosing a Credit Counselor
+FTC guide
+
+Credit Counseling Agencies
+DOJ list
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Debt Settlement Research
+Google Scholar
+
+Related Guides
+
+Debt Relief or Bankruptcy?
+
+Free bankruptcy information guide
+
+debtrelieforbankruptcy.com →
+
+Settlement vs Bankruptcy
+
+Settlement vs bankruptcy: which saves more?
+
+debtsettlementvsbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Bankruptcy Cost Breakdown
+
+Full cost breakdown for Chapter 7 and 13
+
+howmuchdoesbankruptcycost.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+meanstest.org
+chapter7vs13.org
+dischargeinjunction.com
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## FAQ -- Debt Consolidation vs Bankruptcy
+Source: https://debtconsolidationvsbankruptcy.com/faq.html
+
+Skip to main content
+
+DebtConsolidationvsBankruptcy.com
+☰
+
+Home
+Consolidation
+Bankruptcy
+Costs
+Credit Impact
+Success Rates
+Who Profits
+Calculator
+FAQ
+
+Frequently Asked Questions
+
+Answers based on data, not marketing. Click any question to expand.
+
+Network › Consolidation vs Bankruptcy › FAQ
+
+General Questions
+
+Is debt consolidation better than bankruptcy?
+
+It depends on your specific situation. Consolidation works best when total unsecured debt is under $15,000, you have stable income, and you can realistically pay it off within 3 years at a rate lower than your current average.
+
+Bankruptcy is often the better option when debt exceeds 40% of your annual income, you are being sued or garnished, consolidation would take more than 5 years, or you have already tried consolidation and it failed.
+
+The data: consolidation completion rates are under 50%. Chapter 7 bankruptcy discharge rates exceed 95%. See the full comparison.
+
+Does debt consolidation hurt your credit?
+
+Yes, but typically less than bankruptcy initially. Consolidation can lower your score 30-80 points from hard inquiries, account closures, and reduced available credit.
+
+However, if consolidation fails (over 50% of the time), the resulting missed payments, collections, and lawsuits cause ongoing damage that can be worse than bankruptcy over time. Full credit impact analysis.
+
+How long does bankruptcy stay on your credit report?
+
+Chapter 7: 10 years. Chapter 13: 7 years. But the impact on your score diminishes significantly each year. Most filers reach 640+ within 2-3 years of discharge. The notation matters less than your current debt-to-income ratio and payment history. See the timeline.
+
+Can I file bankruptcy after trying debt consolidation?
+
+Yes. There is no rule preventing this. Payments to creditors within 90 days before filing may be recovered as preferential transfers. New consolidation loan debt taken shortly before filing could theoretically be challenged as non-dischargeable, but this is uncommon for good-faith consolidation attempts.
+
+Many bankruptcy filers tried consolidation first. Filing sooner rather than later saves money on interest and fees.
+
+What percentage of consolidation plans succeed?
+
+DMP completion rates: 40-50% (NFCC, Cambridge Credit). Debt settlement: 25-35%. Balance transfer payoff within promo period: approximately 30%.
+
+The most common reasons for failure: income disruption, unexpected expenses, and payment fatigue over 3-5 years. Full data.
+
+Cost Questions
+
+How much does debt consolidation cost compared to bankruptcy?
+
+On $30,000 of debt: a consolidation loan at 15% for 5 years costs approximately $43,740 total. Chapter 7 bankruptcy costs approximately $1,500-$2,800. Bankruptcy saves over $40,000 and takes 3-4 months instead of 5 years. Full cost breakdown.
+
+What are the hidden costs of consolidation?
+
+Beyond direct fees and interest: opportunity cost of years of payments, stress and health effects, risk of failure (losing payments + still owing the debt), and no legal protection against lawsuits during the program. See hidden costs.
+
+Can I file bankruptcy for free?
+
+The court filing fee ($338 for Chapter 7) can be waived for filers whose income is below 150% of the poverty line. You can file without an attorney (pro se), though this is not recommended for most cases. Required credit counseling courses cost $20-$50. See prosedebtors.org for pro se resources.
+
+Legal Protection Questions
+
+Will consolidation stop creditor lawsuits?
+
+No. Consolidation provides zero legal protection. Creditors can sue you, obtain judgments, and garnish your wages while you are in any consolidation program. Only bankruptcy provides the automatic stay -- an immediate federal court order stopping all collection activity.
+
+Can I keep my house and car in bankruptcy?
+
+In most cases, yes. Bankruptcy exemptions protect your primary residence (up to state-specific equity limits), vehicles (typically $4,000-$7,500 in equity), retirement accounts (fully protected), and essential personal property. Over 95% of Chapter 7 cases are no-asset cases where the filer keeps everything.
+
+What debts can bankruptcy eliminate that consolidation cannot?
+
+Bankruptcy can discharge credit card debt, medical bills, personal loans, utility arrears, deficiency balances, some older tax debts, and many other unsecured obligations. Consolidation eliminates nothing -- it restructures payments on the full amount plus interest. See 523a.org for debts that cannot be discharged.
+
+Industry Questions
+
+Who makes money from debt consolidation?
+
+Consolidation loan lenders (interest), credit counseling agencies (setup/monthly fees + creditor kickbacks), debt settlement companies (15-25% of enrolled debt), lead generation companies ($25-150 per lead), and affiliate websites (referral commissions). The industry generates over $10 billion annually from people in financial distress. Full breakdown.
+
+Are nonprofit credit counseling agencies trustworthy?
+
+"Nonprofit" means the agency does not distribute profits to shareholders. It does not mean services are free, executives are not well-paid, or there are no conflicts of interest. Many agencies receive "fair share" payments from creditors (1-15% of amounts collected), creating a financial incentive to recommend consolidation over bankruptcy. Some are legitimate and helpful. Many are not. See the full analysis.
+
+Is there a minimum amount of debt to file bankruptcy?
+
+No. There is no minimum. However, filing costs ($1,500-$2,800 for Chapter 7) make filing for very small debts impractical. As a general rule, if total unsecured debt exceeds $5,000-$10,000, bankruptcy is worth evaluating. Use the calculator to compare costs.
+
+More Resources
+
+Calculator -- Compare consolidation vs bankruptcy for your situation
+
+Discharge Eligibility Screener -- Check your bankruptcy discharge eligibility
+
+Means Test Calculator -- See if you qualify for Chapter 7
+
+How Much Does Bankruptcy Cost? -- Complete guide to filing fees
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Free and open-source. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on debt relief alternatives and comparison:
+
+CFPB: Debt Relief Options
+CFPB comparison
+
+FTC: Settling Credit Card Debt
+FTC guide
+
+FTC: Choosing a Credit Counselor
+FTC guide
+
+Credit Counseling Agencies
+DOJ list
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Debt Settlement Research
+Google Scholar
+
+Related Guides
+
+Debt Relief or Bankruptcy?
+
+Free bankruptcy information guide
+
+debtrelieforbankruptcy.com →
+
+Settlement vs Bankruptcy
+
+Settlement vs bankruptcy: which saves more?
+
+debtsettlementvsbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Bankruptcy Cost Breakdown
+
+Full cost breakdown for Chapter 7 and 13
+
+howmuchdoesbankruptcycost.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+debtrelieforbankruptcy.com
+debtsettlementvsbankruptcy.com
+creditcarddebtbankruptcy.org
+meanstest.org
+chapter7vs13.org
+howmuchdoesbankruptcycost.com
+automaticstay.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## How Bankruptcy Works as a Debt Solution -- Chapter 7 and Chapter 13 -- Debt Consolidation
+Source: https://debtconsolidationvsbankruptcy.com/how-bankruptcy-works.html
+
+Skip to main content
+
+DebtConsolidationvsBankruptcy.com
+☰
+
+Home
+Consolidation
+Bankruptcy
+Costs
+Credit Impact
+Success Rates
+Who Profits
+Calculator
+FAQ
+
+How Bankruptcy Works as a Debt Solution
+
+Chapter 7 eliminates most unsecured debt in 3-4 months. Chapter 13 provides structured repayment with remaining debt discharged. Here is how each works.
+
+Network › Consolidation vs Bankruptcy › How Bankruptcy Works
+
+Bankruptcy Is a Legal Tool, Not a Moral Failing
+
+The United States Constitution explicitly authorizes Congress to establish "uniform Laws on the subject of Bankruptcies" (Article I, Section 8). Bankruptcy exists because society recognized that honest people can become overwhelmed by debt through medical emergencies, job loss, divorce, or predatory lending.
+
+Every year, approximately 400,000 Americans file for bankruptcy. The vast majority receive a discharge and move forward with their lives. The debt consolidation industry profits by making bankruptcy seem shameful -- because every person who files bankruptcy is a customer they lose.
+
+Chapter 7: Liquidation (The Fresh Start)
+
+Chapter 7 is the most common form of bankruptcy. It eliminates most unsecured debt -- credit cards, medical bills, personal loans, utility bills -- in approximately 3-4 months from filing to discharge.
+
+How It Works
+
+File the petition. Complete bankruptcy forms listing all debts, assets, income, and expenses. Pay the $338 filing fee (or request a fee waiver).
+
+Automatic stay takes effect immediately. All collection activity stops -- lawsuits, garnishments, phone calls, repossession attempts. See automaticstay.org.
+
+Trustee is appointed. A bankruptcy trustee reviews your case and determines if you have any non-exempt assets.
+
+341 Meeting. Approximately 30-45 days after filing, you attend a brief meeting with the trustee. Creditors can attend but rarely do. See 341meeting.org.
+
+Discharge. Approximately 60-90 days after the 341 meeting, the court enters a discharge order. Your qualifying debts are permanently eliminated.
+
+What Gets Discharged
+
+Credit card debt, medical bills, personal loans, utility bills, lease obligations, deficiency balances on repossessions, most court judgments, and many other unsecured debts.
+
+What Does Not Get Discharged
+
+Student loans (in most cases), recent tax debts, child support, alimony, debts from fraud, DUI judgments, and certain other debts listed in Section 523(a).
+
+Who Qualifies
+
+You must pass the means test, which compares your income to the state median. If your income is below the median, you qualify. If above, you may still qualify based on allowable deductions. Approximately 70% of filers pass the means test.
+
+Cost
+
+Court filing fee$338
+
+Attorney fees (typical)$1,000-$2,500
+
+Credit counseling courses (2 required)$30-$50
+
+Total typical cost$1,400-$2,900
+
+Chapter 13: Reorganization (The Repayment Plan)
+
+Chapter 13 is a structured repayment plan lasting 3-5 years. You keep all your property and repay creditors based on your disposable income. At the end of the plan, remaining qualifying unsecured debt is discharged.
+
+How It Works
+
+File the petition and propose a plan. The plan specifies how much you will pay each month for 3-5 years.
+
+Automatic stay takes effect. Same immediate protection as Chapter 7.
+
+Confirmation. The court reviews and approves (or modifies) your plan.
+
+Make payments. Monthly payments to the Chapter 13 trustee, who distributes them to creditors.
+
+Discharge. After completing all plan payments, remaining qualifying unsecured debt is discharged.
+
+Who Uses Chapter 13
+
+People who earn too much to pass the Chapter 7 means test
+
+Homeowners who need to catch up on mortgage arrears
+
+People who want to keep non-exempt property
+
+People who filed Chapter 7 within the last 8 years (see 727a8.com)
+
+Cost
+
+Court filing fee$313
+
+Attorney fees (typical)$2,500-$5,000
+
+Monthly plan paymentsBased on disposable income
+
+Trustee commissionBuilt into plan payments
+
+Chapter 7 vs Chapter 13 Quick Comparison
+
+Factor
+Chapter 7
+Chapter 13
+
+Timeline3-4 months3-5 years
+
+Income requirementMust pass means testMust have regular income
+
+Debt limitNone$2,750,000 (combined)
+
+Keep propertyExempt property onlyAll property
+
+Mortgage arrearsCannot cureCan cure through plan
+
+Discharge rate95%+33-40% (completion)
+
+For a deeper comparison: chapter7vs13.org
+
+What Bankruptcy Provides That Consolidation Cannot
+
+The automatic stay -- the moment you file, federal law prohibits all creditors from taking any collection action. No consolidation program provides this.
+
+The discharge -- a permanent court order eliminating your legal obligation to pay qualifying debts. Consolidation does not eliminate any debt.
+
+The discharge injunction -- after discharge, creditors who attempt to collect on discharged debt violate federal law. See dischargeinjunction.com.
+
+Deeper Resources
+
+Means Test Calculator -- See if you qualify for Chapter 7
+
+Meeting of Creditors -- What to expect at the 341 meeting
+
+Nondischargeable Debts -- What bankruptcy cannot eliminate
+
+The Automatic Stay -- Immediate creditor protection
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Free and open-source. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on debt relief alternatives and comparison:
+
+CFPB: Debt Relief Options
+CFPB comparison
+
+FTC: Settling Credit Card Debt
+FTC guide
+
+FTC: Choosing a Credit Counselor
+FTC guide
+
+Credit Counseling Agencies
+DOJ list
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Debt Settlement Research
+Google Scholar
+
+Related Guides
+
+Debt Relief or Bankruptcy?
+
+Free bankruptcy information guide
+
+debtrelieforbankruptcy.com →
+
+Settlement vs Bankruptcy
+
+Settlement vs bankruptcy: which saves more?
+
+debtsettlementvsbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Bankruptcy Cost Breakdown
+
+Full cost breakdown for Chapter 7 and 13
+
+howmuchdoesbankruptcycost.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+meanstest.org
+chapter7vs13.org
+howmuchdoesbankruptcycost.com
+automaticstay.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## How Debt Consolidation Works -- Loans, Balance Transfers, and DMPs
+Source: https://debtconsolidationvsbankruptcy.com/how-consolidation-works.html
+
+Skip to main content
+
+DebtConsolidationvsBankruptcy.com
+☰
+
+Home
+Consolidation
+Bankruptcy
+Costs
+Credit Impact
+Success Rates
+Who Profits
+Calculator
+FAQ
+
+How Debt Consolidation Works
+
+Consolidation loans, balance transfers, and debt management plans -- what each is, what each costs, and who they actually help.
+
+Network › Consolidation vs Bankruptcy › How Consolidation Works
+
+What Is Debt Consolidation?
+
+Debt consolidation means combining multiple debts into a single payment. The idea is simple: instead of juggling five credit card bills at different interest rates, you make one payment. The reality is more complicated.
+
+There are three main types of consolidation, and they work very differently:
+
+Consolidation loans -- a new loan that pays off existing debts
+
+Balance transfer credit cards -- moving balances to a card with a promotional rate
+
+Debt management plans (DMPs) -- a structured repayment program through a credit counseling agency
+
+None of these reduce the amount you owe. They restructure how you pay it. This is the fundamental difference between consolidation and bankruptcy -- consolidation means paying back every dollar (plus fees and interest), while bankruptcy can eliminate the debt entirely.
+
+1. Consolidation Loans
+
+A debt consolidation loan is a personal loan used to pay off multiple debts. You borrow enough to cover your existing balances, pay off the creditors, and then make a single monthly payment on the new loan.
+
+How It Works
+
+Apply for a personal loan from a bank, credit union, or online lender
+
+If approved, use the loan proceeds to pay off existing debts
+
+Make monthly payments on the new loan for 2-7 years
+
+Interest rates range from 6% to 36% depending on your credit score
+
+The Catch
+
+You need good credit to get a good rate. If your credit score is below 670, you will likely pay 15-36% APR -- often no better than the credit cards you are consolidating. Lenders charge origination fees of 1-8% of the loan amount.
+
+Real Cost Example
+
+Scenario
+$25,000 Debt
+
+APR15%
+
+Term5 years (60 months)
+
+Monthly payment$595
+
+Total interest paid$10,700
+
+Origination fee (3%)$750
+
+Total cost$36,450
+
+You borrowed $25,000 and paid back $36,450. That is $11,450 in fees and interest -- nearly half the original debt.
+
+2. Balance Transfer Credit Cards
+
+Balance transfer cards offer a 0% introductory APR (typically 12-21 months) to attract new customers. You transfer existing credit card balances to the new card and pay no interest during the promotional period.
+
+How It Works
+
+Apply for a balance transfer card (requires good to excellent credit)
+
+Transfer existing balances (usually capped at a credit limit)
+
+Pay a transfer fee of 3-5% of the transferred amount
+
+Pay off the balance before the promotional period ends
+
+The Catch
+
+If you don't pay it off in time, you lose. After the promotional period, the APR jumps to 18-29%. If you transferred $10,000, paid $6,000 during the promo period, and have $4,000 remaining, that $4,000 now accrues interest at the regular rate. Some cards even apply retroactive interest to the original balance.
+
+Balance transfers work only for people who can realistically pay off the entire balance within the promotional period. For someone with $30,000+ in debt, this is rarely possible.
+
+3. Debt Management Plans (DMPs)
+
+A DMP is a structured repayment program administered by a nonprofit credit counseling agency. The agency negotiates with your creditors for lower interest rates and consolidates your payments into a single monthly payment to the agency, which distributes it to creditors.
+
+How It Works
+
+Meet with a credit counselor who reviews your finances
+
+The agency negotiates reduced interest rates (typically 0-8%) with creditors
+
+You make one monthly payment to the agency
+
+The agency distributes payments to your creditors
+
+Plans typically last 3-5 years
+
+Fees
+
+Setup fee: $25-75
+
+Monthly fee: $25-75
+
+Over a 5-year plan: $1,525-$4,575 in fees alone
+
+The Catch
+
+Creditors can refuse to participate. A DMP is voluntary -- creditors are not legally obligated to lower rates or accept the plan. If a major creditor refuses, the plan may not work.
+
+You must close credit accounts enrolled in the DMP, which affects your credit utilization ratio and can lower your score.
+
+Fewer than half succeed. DMP completion rates are consistently below 50%. The most common reasons: income disruption, unexpected expenses, and payment fatigue over 3-5 years.
+
+What Consolidation Cannot Do
+
+No form of consolidation provides any of the following protections that bankruptcy provides automatically:
+
+Stop lawsuits. Creditors can sue you while you are in a consolidation program. There is no legal protection.
+
+Stop wage garnishment. If a creditor has a judgment, garnishment continues during consolidation.
+
+Stop foreclosure or repossession. Secured creditors have no obligation to wait.
+
+Eliminate debt. You repay every dollar, plus interest and fees. Consolidation reduces the monthly payment, not the total owed.
+
+Protect against creditor refusal. Any creditor can refuse to participate, continue collection, or file suit.
+
+For immediate legal protection, see The Automatic Stay -- the bankruptcy protection that stops all collection activity the moment you file.
+
+Bottom Line
+
+Consolidation is a payment reorganization tool, not a debt reduction tool. It can work for people with manageable debt, stable income, and good enough credit to get favorable terms. For everyone else, it often delays the inevitable while adding thousands in fees and interest.
+
+Key question to ask: Will the total amount I pay through consolidation (principal + interest + fees) be more or less than the cost of bankruptcy? Use the calculator to find out.
+
+Related Resources
+
+Total Cost Comparison -- Side-by-side cost analysis of consolidation vs bankruptcy
+
+When Consolidation Fails -- Warning signs and debt traps
+
+How Much Does Bankruptcy Cost? -- Compare the alternative
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Free and open-source. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on debt relief alternatives and comparison:
+
+CFPB: Debt Relief Options
+CFPB comparison
+
+FTC: Settling Credit Card Debt
+FTC guide
+
+FTC: Choosing a Credit Counselor
+FTC guide
+
+Credit Counseling Agencies
+DOJ list
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Debt Settlement Research
+Google Scholar
+
+Related Guides
+
+Debt Relief or Bankruptcy?
+
+Free bankruptcy information guide
+
+debtrelieforbankruptcy.com →
+
+Settlement vs Bankruptcy
+
+Settlement vs bankruptcy: which saves more?
+
+debtsettlementvsbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Bankruptcy Cost Breakdown
+
+Full cost breakdown for Chapter 7 and 13
+
+howmuchdoesbankruptcycost.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+meanstest.org
+chapter7vs13.org
+howmuchdoesbankruptcycost.com
+automaticstay.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Debt Consolidation vs Bankruptcy -- Compare Costs, Credit Impact [2026]
+Source: https://debtconsolidationvsbankruptcy.com/
+
+🌐 Esta pagina esta disponible en Espanol
+
+Skip to main content
+
+DebtConsolidationvsBankruptcy.com
+☰
+
+Home
+Consolidation
+Bankruptcy
+Costs
+Credit Impact
+Success Rates
+Who Profits
+Calculator
+FAQ
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+Debt Consolidation vs Bankruptcy
+
+The definitive comparison. No sales pitch. No affiliate links. Just data.
+
+Consolidation completion rate: under 50%.
+
+Bankruptcy discharge rate: over 95%.
+
+Know the numbers before you decide. Real information, no strings.
+
+Network › Debt Consolidation vs Bankruptcy
+
+How Consolidation Works
+
+Consolidation loans, balance transfers, and debt management plans explained.
+
+How Bankruptcy Works
+
+Chapter 7 and Chapter 13 as debt solutions. What actually happens.
+
+Total Cost Comparison
+
+Consolidation fees and interest vs bankruptcy filing costs. The real math.
+
+Credit Score Impact
+
+How each option affects your credit over time. The 7-10 year myth debunked.
+
+Success Rates
+
+Consolidation completion rates vs bankruptcy discharge rates. The data is clear.
+
+Who Profits
+
+The debt consolidation industry makes billions. Follow the money.
+
+Should I Consolidate or File?
+
+Interactive calculator. Enter your numbers, see which option costs less.
+
+When Consolidation Fails
+
+Warning signs, debt traps, and the consolidation cycle that makes things worse.
+
+The Core Comparison
+
+Millions of Americans facing overwhelming debt are told they have two options: consolidate or file bankruptcy. The debt relief industry spends billions marketing consolidation as the "responsible" choice. But the data tells a different story.
+
+Factor
+Debt Consolidation
+Chapter 7 Bankruptcy
+Chapter 13 Bankruptcy
+
+Completion/Success Rate
+Under 50%
+Over 95%
+33-40%
+
+Timeline
+3-5 years
+3-4 months
+3-5 years
+
+Total Cost (on $30K debt)
+$8,000-$15,000+ in interest/fees
+$1,500-$2,800
+Varies by income
+
+Debt Eliminated
+None -- you repay 100%+ interest
+Most unsecured debt discharged
+Remaining balance discharged
+
+Legal Protection
+None
+automatic stay protection in bankruptcy (immediate)
+Automatic stay (immediate)
+
+Stops Lawsuits
+No
+Yes
+Yes
+
+Stops Garnishment
+No
+Yes
+Yes
+
+Credit Report Duration
+Stays on during repayment
+7-10 years (but recovery starts immediately)
+7 years
+
+Creditor Cooperation Required
+Yes -- creditors can refuse
+No -- court order
+No -- court order
+
+When Consolidation Makes Sense
+
+Debt consolidation can be the right choice in specific circumstances. Be honest about whether these apply to you:
+
+Consolidation may work if all of these are true:
+
+Your total unsecured debt is under $15,000
+
+You have stable income that comfortably covers payments
+
+You can pay off the consolidated debt within 3 years
+
+You qualify for an interest rate lower than your current average
+
+You are not being sued, garnished, or threatened with repossession
+
+The underlying cause of the debt has been resolved
+
+If even one of those conditions is not met, consolidation is likely to fail -- and you will have spent months or years making payments only to end up in the same position, or worse.
+
+When Bankruptcy Is the Better Option
+
+Bankruptcy exists for a reason. It is a legal tool designed to give honest debtors a fresh start. Congress created it because sometimes debt becomes unmanageable through no fault of the debtor.
+
+Bankruptcy is likely the better choice when:
+
+Your unsecured debt exceeds 40% of your annual income
+
+You are being sued, garnished, or facing repossession
+
+Consolidation would take more than 5 years to complete
+
+You have already tried consolidation and it failed
+
+The total cost of consolidation exceeds $5,000 in fees and interest
+
+You need immediate legal protection from creditors
+
+Medical debt, job loss, or divorce caused the financial crisis
+
+Learn how bankruptcy works as a debt solution: How Bankruptcy Works
+
+The Numbers the Industry Doesn't Advertise
+
+The debt relief industry generates over $10 billion annually in fees. That money comes from consumers who are already in financial distress. Here is what the marketing materials leave out:
+
+Debt management plans (DMPs): Fewer than 50% of enrollees complete the program. The rest drop out after months or years of payments, often in worse financial shape than when they started.
+
+Debt settlement: Companies charge 15-25% of enrolled debt. Many consumers pay thousands in fees before a single debt is settled. The IRS may tax forgiven debt as income.
+
+Consolidation loans: A lower monthly payment does not mean lower total cost. Extending repayment from 3 years to 7 years at "only" 12% APR can nearly double the total amount paid.
+
+See the full breakdown: Who Profits from Consolidation
+
+The Break-Even Question
+
+The most important question is simple: how much will each option cost you in total?
+
+A Chapter 7 bankruptcy typically costs $1,500-$2,800 (filing fee + attorney) and takes 3-4 months. After that, you owe nothing on discharged debts.
+
+A consolidation program on $30,000 of credit card debt at 15% interest over 5 years costs approximately $12,900 in interest alone -- plus any program fees. And you must successfully complete all 60 months of payments.
+
+Break-even example: If you are paying $600/month toward consolidated debt for 5 years ($36,000 total on $30,000 of debt), a Chapter 7 filing at $2,000 total cost saves you $34,000 and 5 years of payments. Even if bankruptcy drops your credit score by 200 points, the financial math is not close.
+
+Run your own numbers: Consolidation vs Bankruptcy Calculator
+
+Credit Score: The Real Timeline
+
+The biggest fear about bankruptcy is the credit score impact. The debt consolidation industry exploits this fear relentlessly. Here is what the research actually shows:
+
+Immediately after bankruptcy: Score drops 130-240 points from pre-filing level
+
+1 year after: Most filers have recovered 50-80 points
+
+2-3 years after: Many filers reach 640-680+ (enough for most credit needs)
+
+4-5 years after: Bankruptcy filers often have better scores than consolidation dropouts
+
+Meanwhile, failed consolidation leaves you with damaged credit and the original debt still owed. The worst of both worlds.
+
+Full analysis: Credit Score Impact Over Time
+
+Frequently Asked Questions
+
+Is debt consolidation better than bankruptcy?
+
+It depends on your situation. Debt consolidation works best when you have steady income, your total debt is less than 40% of annual income, and you can pay it off within 5 years. Bankruptcy may be the better option when debt is overwhelming, creditors are suing, or consolidation payments are unaffordable.
+
+What is the difference between debt consolidation and bankruptcy?
+
+Debt consolidation combines multiple debts into one payment, usually through a personal loan or balance transfer, and you repay 100% of what you owe. Bankruptcy is a federal court proceeding that either eliminates debt entirely (Chapter 7) or restructures it into affordable payments (Chapter 13).
+
+When should I file bankruptcy instead of consolidating?
+
+Consider bankruptcy when your debt exceeds 40% of your gross income, you are being sued or garnished, you cannot afford consolidation payments, or you have already tried consolidation and fallen behind again. Bankruptcy provides legal protections -- like the automatic stay -- that consolidation does not.
+
+Not Sure Which Path Is Right?
+
+Use the calculator to compare total costs based on your actual numbers.
+
+Open Calculator
+Read the FAQ
+
+Related Resources
+
+Means Test Calculator -- See if you qualify for Chapter 7 bankruptcy
+
+How Much Does Bankruptcy Cost? -- Complete guide to bankruptcy fees
+
+Chapter 7 vs Chapter 13 -- Which bankruptcy chapter is right for you?
+
+Credit Card Debt and Bankruptcy -- How bankruptcy handles credit card debt
+
+The Automatic Stay -- Immediate legal protection when you file
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on debt relief alternatives and comparison:
+
+CFPB: Debt Relief Options
+CFPB comparison
+
+FTC: Settling Credit Card Debt
+FTC guide
+
+FTC: Choosing a Credit Counselor
+FTC guide
+
+Credit Counseling Agencies
+DOJ list
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Debt Settlement Research
+Google Scholar
+
+Related Guides
+
+Debt Relief or Bankruptcy?
+
+Free bankruptcy information guide
+
+debtrelieforbankruptcy.com →
+
+Settlement vs Bankruptcy
+
+Settlement vs bankruptcy: which saves more?
+
+debtsettlementvsbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Bankruptcy Cost Breakdown
+
+Full cost breakdown for Chapter 7 and 13
+
+howmuchdoesbankruptcycost.com →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Chapter 7 vs Chapter 13
+
+If you decide to file, which chapter fits?
+
+chapter7vs13.org →
+
+How Much Does Bankruptcy Cost?
+
+Compare the cost of filing vs. other options
+
+howmuchdoesbankruptcycost.com →
+
+The Automatic Stay
+
+How filing immediately stops collection actions
+
+automaticstay.org →
+
+Credit Score Impact
+
+What really happens to your credit after filing
+
+creditscorebankruptcy.com →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+debtrelieforbankruptcy.com
+debtsettlementvsbankruptcy.com
+creditcarddebtbankruptcy.org
+meanstest.org
+chapter7vs13.org
+howmuchdoesbankruptcycost.com
+automaticstay.org
+341meeting.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Success Rates: Debt Consolidation vs Bankruptcy Discharge Rates
+Source: https://debtconsolidationvsbankruptcy.com/success-rates.html
+
+Skip to main content
+
+DebtConsolidationvsBankruptcy.com
+☰
+
+Home
+Consolidation
+Bankruptcy
+Costs
+Credit Impact
+Success Rates
+Who Profits
+Calculator
+FAQ
+
+Success Rates: The Data
+
+Consolidation completion rates vs bankruptcy discharge rates. Numbers the industry would rather you not see.
+
+Network › Consolidation vs Bankruptcy › Success Rates
+
+The Numbers at a Glance
+
+Debt Solution
+Success/Completion Rate
+Source
+
+Chapter 7 Bankruptcy
+95-97%
+Federal Judicial Center / AO data
+
+Debt Management Plans (DMPs)
+40-50%
+NFCC, Cambridge Credit studies
+
+Chapter 13 Bankruptcy
+33-40%
+Federal Judicial Center
+
+Debt Settlement Programs
+25-35%
+CFPB complaints, industry reports
+
+Balance Transfer Payoff
+~30% (within promo period)
+CreditCards.com surveys
+
+Chapter 7: Why the Rate Is So High
+
+The Chapter 7 discharge rate exceeds 95% for several structural reasons:
+
+It is fast. The entire process takes 3-4 months. There is no multi-year payment plan to default on.
+
+It is court-ordered. The discharge does not depend on creditor cooperation or voluntary payments.
+
+Eligibility is verified upfront. The means test screens out people who do not qualify before they file.
+
+No payment fatigue. There is nothing to "keep up with" for years. Once filed, the process runs its course.
+
+The small percentage of Chapter 7 cases that do not result in discharge involve situations like fraud, failure to complete required courses, or voluntary dismissal -- not inability to pay.
+
+Consolidation: Why More Than Half Fail
+
+The question is not why consolidation has a low success rate -- it is why anyone would expect a high one. Consider what consolidation requires:
+
+3-5 years of consistent payments with no financial disruptions
+
+No job loss, medical emergency, or divorce during the entire period
+
+No new debt accumulation while living on a tight budget for years
+
+No creditor changing terms or refusing to cooperate
+
+The math of failure: If there is a 5% chance of a financial disruption in any given month, over a 60-month consolidation plan, the probability of experiencing at least one disruption is approximately 95%. The very length of consolidation programs is what dooms them.
+
+Common Reasons for DMP Failure
+
+Income disruption (40%): Job loss, hours cut, illness
+
+Unexpected expenses (25%): Car repair, medical bill, home repair
+
+Payment fatigue (20%): Years of restricted budgets with no end in sight
+
+Creditor withdrawal (10%): A creditor leaves the plan and resumes collection
+
+New debt (5%): Financial stress leads to new borrowing
+
+Debt Settlement: The Worst Odds
+
+Debt settlement programs have the lowest success rates of any option. The American Fair Credit Council (the settlement industry's own trade group) has never published comprehensive completion rate data. Independent studies and CFPB complaint data suggest completion rates of 25-35%.
+
+How settlement programs fail:
+
+1. You stop paying creditors (your credit score tanks immediately)
+
+2. You make monthly deposits into a dedicated account for 2-4 years
+
+3. The settlement company takes its fee (15-25% of enrolled debt) before settling anything
+
+4. Meanwhile, creditors sue you (the settlement company provides no legal protection)
+
+5. Many consumers pay thousands in fees, get sued, and end up filing bankruptcy anyway
+
+Chapter 13: Context Matters
+
+Chapter 13 completion rates (33-40%) look similar to DMP rates, but the context is entirely different:
+
+Legal protection throughout. Even during the plan, the automatic stay protects you from creditors. A DMP provides no legal protection.
+
+Dismissed cases are not disasters. If a Chapter 13 plan fails, the debtor can often convert to Chapter 7 and still get a discharge. DMP failures leave you with nothing.
+
+Payments are income-based. Chapter 13 payments are calculated from disposable income, making them more realistic than fixed DMP payments.
+
+Some dismiss by choice. Debtors sometimes dismiss Chapter 13 cases because their financial situation improved, not because it worsened.
+
+The Risk-Adjusted View
+
+Consider the downside of failure:
+
+If Chapter 7 "fails" (rare): You paid $1,500-$2,800 but did not get a discharge. You can try again.
+
+If consolidation fails (common): You paid thousands in fees and interest over months or years, your credit is damaged from the experience, and you still owe the original debt. You may end up filing bankruptcy anyway -- having lost both money and time.
+
+Related Resources
+
+When Consolidation Fails -- What happens when you drop out
+
+Cost Comparison -- Total cost analysis
+
+Discharge Eligibility Screener -- Check your bankruptcy discharge eligibility
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Free and open-source. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on debt relief alternatives and comparison:
+
+CFPB: Debt Relief Options
+CFPB comparison
+
+FTC: Settling Credit Card Debt
+FTC guide
+
+FTC: Choosing a Credit Counselor
+FTC guide
+
+Credit Counseling Agencies
+DOJ list
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Debt Settlement Research
+Google Scholar
+
+Related Guides
+
+Debt Relief or Bankruptcy?
+
+Free bankruptcy information guide
+
+debtrelieforbankruptcy.com →
+
+Settlement vs Bankruptcy
+
+Settlement vs bankruptcy: which saves more?
+
+debtsettlementvsbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Bankruptcy Cost Breakdown
+
+Full cost breakdown for Chapter 7 and 13
+
+howmuchdoesbankruptcycost.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+meanstest.org
+chapter7vs13.org
+howmuchdoesbankruptcycost.com
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## When Debt Consolidation Fails -- Warning Signs and Debt Traps
+Source: https://debtconsolidationvsbankruptcy.com/when-consolidation-fails.html
+
+Skip to main content
+
+DebtConsolidationvsBankruptcy.com
+☰
+
+Home
+Consolidation
+Bankruptcy
+Costs
+Credit Impact
+Success Rates
+Who Profits
+Calculator
+FAQ
+
+When Consolidation Fails
+
+Warning signs, debt traps, and the consolidation cycle that makes things worse.
+
+Network › Consolidation vs Bankruptcy › When Consolidation Fails
+
+The Consolidation Cycle
+
+One of the most damaging patterns in consumer debt is the consolidation cycle. It works like this:
+
+Accumulate debt. Credit cards, medical bills, personal loans.
+
+Take out a consolidation loan. Pay off the cards. Monthly payment drops. Feel relief.
+
+Credit cards are now empty. Available credit is restored. Spending resumes.
+
+New debt accumulates on the cards. Now you owe the consolidation loan AND new credit card balances.
+
+Total debt is higher than before consolidation.
+
+Take out another consolidation loan. Repeat from step 2.
+
+Studies show that 70%+ of consumers who consolidate credit card debt accumulate new card balances within 3 years. The consolidation did not solve the problem -- it freed up credit lines that got used again. The fundamental issue (spending exceeding income, or income being insufficient for basic needs) was never addressed.
+
+Warning Signs Consolidation Is Failing
+
+If any of these apply to you, consolidation is likely making your situation worse:
+
+You are using credit cards again while paying the consolidation loan
+
+You can barely make the minimum payment with no room for emergencies
+
+You have missed a payment or are falling behind
+
+A creditor has filed a lawsuit against you
+
+Your wages are being garnished
+
+You are borrowing from one source to pay another
+
+Your total debt is higher now than when you started consolidation
+
+You are considering a second consolidation to handle the first one
+
+You cannot see a realistic path to being debt-free within 3 years
+
+What Happens When You Drop Out of a DMP
+
+When you leave a debt management plan before completion, the consequences stack up:
+
+Interest rates revert. The reduced rates negotiated by the agency are lost. Creditors restore the original (or higher) rates.
+
+Fees resume. Late fees, over-limit fees, and penalty rates kick back in.
+
+Money already paid is gone. You do not get back the fees paid to the agency or the months of payments made toward the plan.
+
+Creditors resume collection. Phone calls, letters, and lawsuits restart immediately.
+
+Your credit report reflects the failure. Closed accounts, the DMP notation, and now new delinquencies compound the damage.
+
+The worst-case scenario: You spend 18 months in a DMP, pay $10,000+ toward your debt and $900+ in fees, then lose your job and drop out. You now owe almost as much as before (the payments went mostly to interest), your credit is damaged from the closed accounts and DMP notation, and creditors are now more aggressive because the DMP showed them where you bank and how much you earn.
+
+The Sunk Cost Trap
+
+One of the most psychologically powerful forces keeping people in failing consolidation programs is sunk cost bias. "I have already paid $8,000 into this plan -- I cannot quit now or I'll lose everything I paid."
+
+But the $8,000 is gone regardless. The question is not whether you can get that money back (you cannot). The question is: what is the cheapest path forward from where you are right now?
+
+The math does not care about sunk costs. If you have $20,000 remaining on a failing consolidation plan and Chapter 7 costs $2,000, the bankruptcy saves you $18,000+ going forward -- regardless of how much you already paid into the plan.
+
+When to Cut Your Losses
+
+If consolidation is not working, filing bankruptcy sooner rather than later is usually better:
+
+Every month you wait costs money. Interest accrues. Fees accumulate. Creditors file lawsuits. Garnishments start. The sooner you file, the less money you waste on a failing plan and the sooner you begin rebuilding.
+
+Payments made before filing may be recoverable. Payments made to creditors within 90 days of filing (or within 1 year to insiders) may be recoverable by the bankruptcy trustee as preferential transfers. This can actually benefit the bankruptcy estate.
+
+Credit recovery starts sooner. The sooner you file, the sooner you discharge, and the sooner your credit score begins recovering.
+
+Related Resources
+
+Calculator -- Compare your current consolidation cost vs bankruptcy
+
+How Bankruptcy Works -- What happens when you file
+
+The Automatic Stay -- Immediate protection from creditors
+
+Means Test -- Check if you qualify for Chapter 7
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Free and open-source. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on debt relief alternatives and comparison:
+
+CFPB: Debt Relief Options
+CFPB comparison
+
+FTC: Settling Credit Card Debt
+FTC guide
+
+FTC: Choosing a Credit Counselor
+FTC guide
+
+Credit Counseling Agencies
+DOJ list
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Debt Settlement Research
+Google Scholar
+
+Related Guides
+
+Debt Relief or Bankruptcy?
+
+Free bankruptcy information guide
+
+debtrelieforbankruptcy.com →
+
+Settlement vs Bankruptcy
+
+Settlement vs bankruptcy: which saves more?
+
+debtsettlementvsbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Bankruptcy Cost Breakdown
+
+Full cost breakdown for Chapter 7 and 13
+
+howmuchdoesbankruptcycost.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+meanstest.org
+chapter7vs13.org
+automaticstay.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Who Profits from Debt Consolidation? Follow the Money
+Source: https://debtconsolidationvsbankruptcy.com/who-profits.html
+
+Skip to main content
+
+DebtConsolidationvsBankruptcy.com
+☰
+
+Home
+Consolidation
+Bankruptcy
+Costs
+Credit Impact
+Success Rates
+Who Profits
+Calculator
+FAQ
+
+Who Profits from Debt Consolidation?
+
+The debt relief industry generates over $10 billion annually. Follow the money.
+
+Network › Consolidation vs Bankruptcy › Who Profits
+
+The Money Flow
+
+When you enter a debt consolidation program, multiple entities get paid -- from your money, while you are in financial distress. Understanding who profits and how much helps explain why consolidation is marketed so aggressively.
+
+Who
+How They Profit
+Typical Amount (on $30K debt)
+
+Consolidation loan lender
+Interest over 5-7 years
+$8,000-$20,000+
+
+Credit counseling agency (DMP)
+Setup + monthly fees
+$1,500-$4,500
+
+Debt settlement company
+15-25% of enrolled debt
+$4,500-$7,500
+
+Original creditors (via DMP)
+Receive 100% of principal
+$30,000
+
+Lead generation companies
+Sell your information to providers
+$25-$150 per lead
+
+Affiliate websites
+Commission for referrals
+$50-$500 per customer
+
+The Credit Counseling Industry
+
+Many credit counseling agencies are structured as nonprofits. The "nonprofit" label is misleading. It means the organization does not distribute profits to shareholders -- it does not mean the services are free or that executives are not well-compensated.
+
+How "Nonprofit" Agencies Make Money
+
+Fair share contributions: Creditors pay the agency 1-15% of each payment processed. This creates a conflict of interest -- the agency is financially incentivized to keep you paying creditors rather than recommend bankruptcy, even when bankruptcy is the better option.
+
+Monthly fees: $25-75/month from every enrolled consumer
+
+Education course fees: Congress mandated credit counseling before bankruptcy filing (BAPCPA 2005), creating a guaranteed revenue stream from people who ultimately file anyway
+
+Grants and donations: Often from credit card companies and banks -- the same entities that benefit when consumers repay instead of filing bankruptcy
+
+The BAPCPA connection: The 2005 bankruptcy reform law (BAPCPA) was heavily lobbied by the credit card industry. One provision requires consumers to complete credit counseling from an approved agency before filing bankruptcy. This requirement channels every potential bankruptcy filer through the credit counseling industry first -- giving them a chance to divert consumers into DMPs instead.
+
+The Debt Settlement Industry
+
+Debt settlement is the most profitable and least regulated corner of the debt relief industry. Companies charge 15-25% of the total enrolled debt, and much of the fee is collected before any debt is actually settled.
+
+The Business Model
+
+Aggressive marketing targets desperate consumers (TV ads, Google ads, direct mail)
+
+Consumer stops paying creditors and deposits into a dedicated account
+
+The company waits until enough money accumulates to negotiate
+
+Company takes its fee (often front-loaded) before settling debts
+
+Meanwhile, creditors sue the consumer, who has no legal protection
+
+FTC enforcement actions have targeted numerous debt settlement companies for deceptive practices, including charging upfront fees before settling any debts, misrepresenting success rates, and failing to disclose risks (lawsuits, tax consequences, credit damage).
+
+The Consolidation Loan Industry
+
+Personal loan lenders -- including banks, credit unions, and fintech companies -- profit from interest charged over the life of the loan. The less creditworthy the borrower, the higher the rate, and the more profitable the loan.
+
+The irony: People seeking consolidation loans typically have damaged credit. This means they qualify for higher interest rates -- often 15-36% APR. At these rates, the total interest paid can approach or exceed the original debt. The lender profits from the borrower's financial distress.
+
+Origination Fees
+
+Many consolidation loans charge origination fees of 1-8% of the loan amount. On a $30,000 loan, that is $300-$2,400 taken off the top. The borrower receives less than the loan amount but owes the full balance plus interest.
+
+The Lead Generation Machine
+
+The debt relief industry is powered by lead generation. When you search "debt consolidation" online or fill out a form on a comparison website, your information is typically sold to multiple providers for $25-$150 per lead. Some leads are resold multiple times.
+
+This is why you receive aggressive phone calls and emails after expressing interest in debt relief. Your data has been sold, and each buyer paid for the opportunity to convert you into a paying customer.
+
+Who Does NOT Profit from Bankruptcy?
+
+Creditors do not profit from bankruptcy -- which is exactly why they lobby against it and fund alternatives that keep consumers paying.
+
+Bankruptcy attorneys earn modest fees -- Chapter 7 attorney fees ($1,000-$2,500) are a fraction of what the consolidation industry extracts.
+
+The court charges a filing fee ($338 for Chapter 7) that can be waived for low-income filers.
+
+Nobody gets rich from a $1,500 bankruptcy case. But many people get rich from a $30,000 consolidation that takes 5 years and fails half the time.
+
+The Question to Ask
+
+When someone recommends debt consolidation over bankruptcy, ask: Who profits from that recommendation?
+
+If the answer is "the person making the recommendation" -- whether through fees, commissions, fair share payments, or affiliate revenue -- consider whether you are receiving financial advice or a sales pitch.
+
+This site has no affiliate links, no referral fees, and no financial relationship with any debt relief provider, lender, or bankruptcy attorney. We do not profit from your decision either way.
+
+Related Resources
+
+Success Rates -- How often consolidation actually works
+
+When Consolidation Fails -- The consequences of program dropout
+
+Cost Comparison -- Total cost side-by-side
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Free and open-source. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on debt relief alternatives and comparison:
+
+CFPB: Debt Relief Options
+CFPB comparison
+
+FTC: Settling Credit Card Debt
+FTC guide
+
+FTC: Choosing a Credit Counselor
+FTC guide
+
+Credit Counseling Agencies
+DOJ list
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Debt Settlement Research
+Google Scholar
+
+Related Guides
+
+Debt Relief or Bankruptcy?
+
+Free bankruptcy information guide
+
+debtrelieforbankruptcy.com →
+
+Settlement vs Bankruptcy
+
+Settlement vs bankruptcy: which saves more?
+
+debtsettlementvsbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Bankruptcy Cost Breakdown
+
+Full cost breakdown for Chapter 7 and 13
+
+howmuchdoesbankruptcycost.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+meanstest.org
+chapter7vs13.org
+howmuchdoesbankruptcycost.com
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.

@@ -1,47 +1,26 @@
-# debtconsolidationvsbankruptcy.com
+# Debt Consolidation vs Bankruptcy -- Compare Costs, Credit Impact [2026]
+> Debt consolidation vs bankruptcy: compare costs, credit impact, and outcomes. Which is right for you? Data-driven 2026 comparison guide.
 
-> The definitive guide to debt consolidation vs bankruptcy. Real information, no strings.
+## About
+debtconsolidationvsbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-debtconsolidationvsbankruptcy.com is a free, open-source educational resource comparing debt consolidation programs with bankruptcy as debt solutions. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://debtconsolidationvsbankruptcy.com/: The complete guide -- debt consolidation vs bankruptcy. When each works, when each fails, and what the industry does not want you to know.
-- https://debtconsolidationvsbankruptcy.com/how-consolidation-works.html: How debt consolidation works -- consolidation loans, balance transfers, and debt management plans explained.
-- https://debtconsolidationvsbankruptcy.com/how-bankruptcy-works.html: How bankruptcy works as a debt solution -- Chapter 7 liquidation and Chapter 13 repayment plans.
-- https://debtconsolidationvsbankruptcy.com/cost-comparison.html: Total cost analysis -- consolidation fees and interest vs bankruptcy filing fees and attorney costs.
-- https://debtconsolidationvsbankruptcy.com/credit-impact.html: Credit score impact over time -- consolidation vs bankruptcy. The 7-10 year myth debunked.
-- https://debtconsolidationvsbankruptcy.com/success-rates.html: Completion and success rates -- fewer than half of consolidation programs succeed vs 95%+ bankruptcy discharge rate.
-- https://debtconsolidationvsbankruptcy.com/who-profits.html: Who makes money from debt consolidation -- the industry exposed. Fees, commissions, and conflicts of interest.
-- https://debtconsolidationvsbankruptcy.com/calculator.html: Interactive calculator -- should you consolidate or file bankruptcy? Compare total costs and timelines.
-- https://debtconsolidationvsbankruptcy.com/when-consolidation-fails.html: When consolidation makes things worse -- warning signs, debt traps, and the consolidation cycle.
-- https://debtconsolidationvsbankruptcy.com/faq.html: Frequently asked questions about debt consolidation vs bankruptcy with detailed answers.
-
-## Key Facts
-
-- Debt management plan (DMP) completion rates are under 50% according to multiple studies (NFCC, Cambridge Credit)
-- Chapter 7 bankruptcy discharge rate exceeds 95% nationally
-- Chapter 13 completion rates average 33-40%, but completed plans discharge all qualifying debt
-- Consolidation loans do not reduce the principal -- they restructure payments, often at higher total cost
-- Debt settlement companies charge 15-25% of enrolled debt and success is not guaranteed
-- Bankruptcy provides immediate legal protection (automatic stay) that consolidation cannot
-- Credit score recovery after bankruptcy often reaches pre-filing levels within 2-3 years
-- The debt relief industry generates over $10 billion annually in fees
-
-## Network
-
-Part of the Open Bankruptcy Project:
-- 1328f.com -- Discharge eligibility screener
-- 1328f.org -- Research platform
-- debtrelieforbankruptcy.com -- Debt relief vs bankruptcy
-- debtsettlementvsbankruptcy.com -- Debt settlement vs bankruptcy
-- creditcarddebtbankruptcy.org -- Credit card debt and bankruptcy
-- meanstest.org -- Chapter 7 means test
-- howmuchdoesbankruptcycost.com -- Bankruptcy cost guide
-- chapter7vs13.org -- Chapter 7 vs Chapter 13
-- automaticstay.org -- The automatic stay
-- 341meeting.org -- Meeting of creditors
+## Key Pages
+- Debt Consolidation vs Bankruptcy Calculator -- Compare Total Costs: https://debtconsolidationvsbankruptcy.com/calculator.html
+- Debt Consolidation vs Bankruptcy: Head-to-Head Comparison (2026): https://debtconsolidationvsbankruptcy.com/comparison.html
+- Cost Comparison: Debt Consolidation vs Bankruptcy -- Total Cost Analysis: https://debtconsolidationvsbankruptcy.com/cost-comparison.html
+- Credit Score Impact: Debt Consolidation vs Bankruptcy Over Time: https://debtconsolidationvsbankruptcy.com/credit-impact.html
+- FAQ -- Debt Consolidation vs Bankruptcy: https://debtconsolidationvsbankruptcy.com/faq.html
+- How Bankruptcy Works as a Debt Solution -- Chapter 7 and Chapter 13 -- Debt Consolidation: https://debtconsolidationvsbankruptcy.com/how-bankruptcy-works.html
+- How Debt Consolidation Works -- Loans, Balance Transfers, and DMPs: https://debtconsolidationvsbankruptcy.com/how-consolidation-works.html
+- Debt Consolidation vs Bankruptcy -- Compare Costs, Credit Impact: https://debtconsolidationvsbankruptcy.com/
+- Success Rates: Debt Consolidation vs Bankruptcy Discharge Rates: https://debtconsolidationvsbankruptcy.com/success-rates.html
+- When Debt Consolidation Fails -- Warning Signs and Debt Traps: https://debtconsolidationvsbankruptcy.com/when-consolidation-fails.html
+- Who Profits from Debt Consolidation? Follow the Money: https://debtconsolidationvsbankruptcy.com/who-profits.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
