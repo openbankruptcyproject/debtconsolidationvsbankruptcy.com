@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Debt Consolidation vs Bankruptcy Calculator -- Compare Total Costs
+## Debt Consolidation vs Bankruptcy Calculator - Compare Total Costs
 Source: https://debtconsolidationvsbankruptcy.com/calculator.html
 
 Skip to main content
@@ -26,7 +26,7 @@ FAQ
 
 Should I Consolidate or File?
 
-Enter your numbers. See the math. No data is collected or transmitted -- everything runs in your browser.
+Enter your numbers. See the math. No data is collected or transmitted - everything runs in your browser.
 
 Network › Consolidation vs Bankruptcy › Calculator
 
@@ -78,17 +78,17 @@ No data is collected. All calculations run entirely in your browser. Nothing is 
 
 Related Tools
 
-Means Test Calculator -- See if you qualify for Chapter 7
+Means Test Calculator - See if you qualify for Chapter 7
 
-Discharge Eligibility Screener -- Check your discharge eligibility
+Discharge Eligibility Screener - Check your discharge eligibility
 
-Detailed Cost Comparison -- Full analysis with multiple scenarios
+Detailed Cost Comparison - Full analysis with multiple scenarios
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -237,7 +237,7 @@ Credit recovery to 640+During repayment (if completed)12-24 monthsAfter 3-5 year
 
 Tax consequencesNone (you pay full amount)None (discharge is tax-free)None
 
-Debt eliminatedNone -- you repay 100%+ interestAll qualifying unsecured debtPartial (through plan)
+Debt eliminatedNone - you repay 100%+ interestAll qualifying unsecured debtPartial (through plan)
 
 EligibilityDecent credit or stable incomeMust pass means testRegular income required
 
@@ -297,7 +297,7 @@ Balance transfer (0% for 18 mo)$1,66718 months$30,900$900 (transfer fee)
 
 Chapter 7 bankruptcy$03-4 months$1,400-$2,900$0 (filing costs only)
 
-The comparison shows the difference. On $30,000 of debt, consolidation costs $8,000-$13,000 in interest/fees and takes 5 years. Chapter 7 costs under $3,000, takes 4 months, and the entire $30,000 is gone. The only cost of Chapter 7 is the credit report impact -- which most people recover from in 2 years.
+The comparison shows the difference. On $30,000 of debt, consolidation costs $8,000-$13,000 in interest/fees and takes 5 years. Chapter 7 costs under $3,000, takes 4 months, and the entire $30,000 is gone. The only cost of Chapter 7 is the credit report impact - which most people recover from in 2 years.
 
 When Consolidation Is the Better Choice
 
@@ -315,7 +315,7 @@ You can pay it off in 3 years or less. Longer timelines dramatically increase to
 
 You will not accumulate new debt during the repayment period.
 
-Honest assessment: Most people considering consolidation do not meet all of these criteria. If even one is missing, the risk of failure is significant -- and failed consolidation often leads to bankruptcy anyway, after wasting years and thousands of dollars.
+Honest assessment: Most people considering consolidation do not meet all of these criteria. If even one is missing, the risk of failure is significant - and failed consolidation often leads to bankruptcy anyway, after wasting years and thousands of dollars.
 
 When Bankruptcy Is the Better Choice
 
@@ -325,11 +325,11 @@ Total debt exceeds 40% of annual income. At this ratio, repayment plans are rare
 
 You are being sued or garnished. Only the automatic stay in bankruptcy stops legal action immediately.
 
-You have multiple types of debt. Consolidation usually handles credit cards only; bankruptcy covers everything -- medical bills, personal loans, utility arrears, lease obligations, judgments.
+You have multiple types of debt. Consolidation usually handles credit cards only; bankruptcy covers everything - medical bills, personal loans, utility arrears, lease obligations, judgments.
 
 Consolidation would take more than 5 years. Long repayment timelines have extremely high failure rates.
 
-Your income is unstable. Job changes, contract work, commission-based pay -- any income disruption can collapse a consolidation plan.
+Your income is unstable. Job changes, contract work, commission-based pay - any income disruption can collapse a consolidation plan.
 
 You tried consolidation and it failed. This is common. Do not throw more money at a strategy that already did not work.
 
@@ -345,7 +345,7 @@ During repayment: gradual improvement as balances decrease
 
 Completion: significant boost (accounts show paid in full)
 
-If you fail: Missed payments, collections, potential lawsuits -- credit damage can be worse than bankruptcy
+If you fail: Missed payments, collections, potential lawsuits - credit damage can be worse than bankruptcy
 
 Bankruptcy credit path
 
@@ -371,7 +371,7 @@ New debt accumulation. Research shows that many people who consolidate credit ca
 
 The "lower rate" may not be lower. If your credit is damaged, a consolidation loan at 20% is barely better than the credit cards at 22%. The savings are negligible.
 
-Home equity loans put your house at risk. Converting unsecured credit card debt into a home equity loan means your house is now collateral. If you default, you lose your home -- something that could not have happened with the original credit card debt.
+Home equity loans put your house at risk. Converting unsecured credit card debt into a home equity loan means your house is now collateral. If you default, you lose your home - something that could not have happened with the original credit card debt.
 
 The Consolidation-to-Bankruptcy Pipeline
 
@@ -389,7 +389,7 @@ Falls behind on consolidation payments
 
 Creditors resume collection, lawsuits filed
 
-Files bankruptcy -- but has $8,000-$15,000 less than when they started
+Files bankruptcy - but has $8,000-$15,000 less than when they started
 
 The money spent on failed consolidation does not come back. Every dollar paid toward a consolidation that eventually leads to bankruptcy is a dollar wasted. This is the strongest argument for considering bankruptcy first when debt levels are high.
 
@@ -423,23 +423,23 @@ Discharge Screener
 
 Related Resources
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of bankruptcy chapters
+Chapter 7 vs Chapter 13 - Side-by-side comparison of bankruptcy chapters
 
-Debt Settlement vs Bankruptcy -- How settlement compares
+Debt Settlement vs Bankruptcy - How settlement compares
 
-automaticstay.org -- How the automatic stay stops lawsuits and garnishment
+automaticstay.org - How the automatic stay stops lawsuits and garnishment
 
-howmuchdoesbankruptcycost.com -- What bankruptcy actually costs
+howmuchdoesbankruptcycost.com - What bankruptcy actually costs
 
-debtvalidationletter.org -- Challenge debts before considering either option
+debtvalidationletter.org - Challenge debts before considering either option
 
-523a.org -- Which debts survive bankruptcy
+523a.org - Which debts survive bankruptcy
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -535,7 +535,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Cost Comparison: Debt Consolidation vs Bankruptcy -- Total Cost Analysis
+## Cost Comparison: Debt Consolidation vs Bankruptcy - Total Cost Analysis
 Source: https://debtconsolidationvsbankruptcy.com/cost-comparison.html
 
 Skip to main content
@@ -631,7 +631,7 @@ Opportunity cost: Money spent on consolidation payments could be saved, invested
 
 Stress and health costs: 3-5 years of tight budgets and the constant risk of falling behind takes a documented toll on mental and physical health.
 
-Risk of failure: With under 50% completion rates, there is a better-than-even chance you will pay thousands and still end up needing bankruptcy -- at which point you have lost both the consolidation payments and the time.
+Risk of failure: With under 50% completion rates, there is a better-than-even chance you will pay thousands and still end up needing bankruptcy - at which point you have lost both the consolidation payments and the time.
 
 No legal protection: During consolidation, creditors can still sue you. A single lawsuit can wipe out everything you have paid toward the consolidation.
 
@@ -647,17 +647,17 @@ For most people with more than $10,000 in unsecured debt, bankruptcy is signific
 
 Related Resources
 
-Interactive Calculator -- Enter your numbers and compare total costs
+Interactive Calculator - Enter your numbers and compare total costs
 
-How Much Does Bankruptcy Cost? -- Complete guide to filing fees and attorney costs
+How Much Does Bankruptcy Cost? - Complete guide to filing fees and attorney costs
 
-Success Rates -- Completion rates that affect total cost
+Success Rates - Completion rates that affect total cost
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -771,7 +771,7 @@ FAQ
 
 Credit Score Impact Over Time
 
-Bankruptcy causes a bigger initial drop. But recovery is often faster -- because the debt is actually gone.
+Bankruptcy causes a bigger initial drop. But recovery is often faster - because the debt is actually gone.
 
 Network › Consolidation vs Bankruptcy › Credit Impact
 
@@ -836,7 +836,7 @@ Secured credit cards, credit-builder loans, and authorized user accounts are ava
 
 4. The "Fresh Start" Effect
 
-With no monthly debt payments consuming income, bankruptcy filers can save, build emergency funds, and maintain financial stability -- all of which prevent the missed payments that would re-damage credit.
+With no monthly debt payments consuming income, bankruptcy filers can save, build emergency funds, and maintain financial stability - all of which prevent the missed payments that would re-damage credit.
 
 The Consolidation Credit Trap
 
@@ -864,21 +864,21 @@ Real-world result: Many Chapter 7 filers qualify for FHA mortgages within 2 year
 
 Bottom Line
 
-If you are choosing between consolidation and bankruptcy primarily because of credit score fears, know this: bankruptcy causes a larger initial drop but a faster and more complete recovery, because the underlying debt is eliminated. Consolidation causes a smaller initial drop but ongoing vulnerability -- and if it fails (which happens more than half the time), the cumulative credit damage can be worse than bankruptcy ever would have been.
+If you are choosing between consolidation and bankruptcy primarily because of credit score fears, know this: bankruptcy causes a larger initial drop but a faster and more complete recovery, because the underlying debt is eliminated. Consolidation causes a smaller initial drop but ongoing vulnerability - and if it fails (which happens more than half the time), the cumulative credit damage can be worse than bankruptcy ever would have been.
 
 Related Resources
 
-Success Rates -- Consolidation completion rates vs bankruptcy discharge rates
+Success Rates - Consolidation completion rates vs bankruptcy discharge rates
 
-When Consolidation Fails -- The credit impact of failed consolidation
+When Consolidation Fails - The credit impact of failed consolidation
 
-The Discharge Injunction -- Your legal protection after bankruptcy
+The Discharge Injunction - Your legal protection after bankruptcy
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -972,7 +972,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## FAQ -- Debt Consolidation vs Bankruptcy
+## FAQ - Debt Consolidation vs Bankruptcy
 Source: https://debtconsolidationvsbankruptcy.com/faq.html
 
 Skip to main content
@@ -1046,7 +1046,7 @@ Legal Protection Questions
 
 Will consolidation stop creditor lawsuits?
 
-No. Consolidation provides zero legal protection. Creditors can sue you, obtain judgments, and garnish your wages while you are in any consolidation program. Only bankruptcy provides the automatic stay -- an immediate federal court order stopping all collection activity.
+No. Consolidation provides zero legal protection. Creditors can sue you, obtain judgments, and garnish your wages while you are in any consolidation program. Only bankruptcy provides the automatic stay - an immediate federal court order stopping all collection activity.
 
 Can I keep my house and car in bankruptcy?
 
@@ -1054,7 +1054,7 @@ In most cases, yes. Bankruptcy exemptions protect your primary residence (up to 
 
 What debts can bankruptcy eliminate that consolidation cannot?
 
-Bankruptcy can discharge credit card debt, medical bills, personal loans, utility arrears, deficiency balances, some older tax debts, and many other unsecured obligations. Consolidation eliminates nothing -- it restructures payments on the full amount plus interest. See 523a.org for debts that cannot be discharged.
+Bankruptcy can discharge credit card debt, medical bills, personal loans, utility arrears, deficiency balances, some older tax debts, and many other unsecured obligations. Consolidation eliminates nothing - it restructures payments on the full amount plus interest. See 523a.org for debts that cannot be discharged.
 
 Industry Questions
 
@@ -1072,19 +1072,19 @@ No. There is no minimum. However, filing costs ($1,500-$2,800 for Chapter 7) mak
 
 More Resources
 
-Calculator -- Compare consolidation vs bankruptcy for your situation
+Calculator - Compare consolidation vs bankruptcy for your situation
 
-Discharge Eligibility Screener -- Check your bankruptcy discharge eligibility
+Discharge Eligibility Screener - Check your bankruptcy discharge eligibility
 
-Means Test Calculator -- See if you qualify for Chapter 7
+Means Test Calculator - See if you qualify for Chapter 7
 
-How Much Does Bankruptcy Cost? -- Complete guide to filing fees
+How Much Does Bankruptcy Cost? - Complete guide to filing fees
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1182,7 +1182,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## How Bankruptcy Works as a Debt Solution -- Chapter 7 and Chapter 13 -- Debt Consolidation
+## How Bankruptcy Works as a Debt Solution - Chapter 7 and Chapter 13 - Debt Consolidation
 Source: https://debtconsolidationvsbankruptcy.com/how-bankruptcy-works.html
 
 Skip to main content
@@ -1210,17 +1210,17 @@ Bankruptcy Is a Legal Tool, Not a Moral Failing
 
 The United States Constitution explicitly authorizes Congress to establish "uniform Laws on the subject of Bankruptcies" (Article I, Section 8). Bankruptcy exists because society recognized that honest people can become overwhelmed by debt through medical emergencies, job loss, divorce, or predatory lending.
 
-Every year, approximately 400,000 Americans file for bankruptcy. The vast majority receive a discharge and move forward with their lives. The debt consolidation industry profits by making bankruptcy seem shameful -- because every person who files bankruptcy is a customer they lose.
+Every year, approximately 400,000 Americans file for bankruptcy. The vast majority receive a discharge and move forward with their lives. The debt consolidation industry profits by making bankruptcy seem shameful - because every person who files bankruptcy is a customer they lose.
 
 Chapter 7: Liquidation (The Fresh Start)
 
-Chapter 7 is the most common form of bankruptcy. It eliminates most unsecured debt -- credit cards, medical bills, personal loans, utility bills -- in approximately 3-4 months from filing to discharge.
+Chapter 7 is the most common form of bankruptcy. It eliminates most unsecured debt - credit cards, medical bills, personal loans, utility bills - in approximately 3-4 months from filing to discharge.
 
 How It Works
 
 File the petition. Complete bankruptcy forms listing all debts, assets, income, and expenses. Pay the $338 filing fee (or request a fee waiver).
 
-Automatic stay takes effect immediately. All collection activity stops -- lawsuits, garnishments, phone calls, repossession attempts. See automaticstay.org.
+Automatic stay takes effect immediately. All collection activity stops - lawsuits, garnishments, phone calls, repossession attempts. See automaticstay.org.
 
 Trustee is appointed. A bankruptcy trustee reviews your case and determines if you have any non-exempt assets.
 
@@ -1308,27 +1308,27 @@ For a deeper comparison: chapter7vs13.org
 
 What Bankruptcy Provides That Consolidation Cannot
 
-The automatic stay -- the moment you file, federal law prohibits all creditors from taking any collection action. No consolidation program provides this.
+The automatic stay - the moment you file, federal law prohibits all creditors from taking any collection action. No consolidation program provides this.
 
-The discharge -- a permanent court order eliminating your legal obligation to pay qualifying debts. Consolidation does not eliminate any debt.
+The discharge - a permanent court order eliminating your legal obligation to pay qualifying debts. Consolidation does not eliminate any debt.
 
-The discharge injunction -- after discharge, creditors who attempt to collect on discharged debt violate federal law. See dischargeinjunction.com.
+The discharge injunction - after discharge, creditors who attempt to collect on discharged debt violate federal law. See dischargeinjunction.com.
 
 Deeper Resources
 
-Means Test Calculator -- See if you qualify for Chapter 7
+Means Test Calculator - See if you qualify for Chapter 7
 
-Meeting of Creditors -- What to expect at the 341 meeting
+Meeting of Creditors - What to expect at the 341 meeting
 
-Nondischargeable Debts -- What bankruptcy cannot eliminate
+Nondischargeable Debts - What bankruptcy cannot eliminate
 
-The Automatic Stay -- Immediate creditor protection
+The Automatic Stay - Immediate creditor protection
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1423,7 +1423,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## How Debt Consolidation Works -- Loans, Balance Transfers, and DMPs
+## How Debt Consolidation Works - Loans, Balance Transfers, and DMPs
 Source: https://debtconsolidationvsbankruptcy.com/how-consolidation-works.html
 
 Skip to main content
@@ -1443,7 +1443,7 @@ FAQ
 
 How Debt Consolidation Works
 
-Consolidation loans, balance transfers, and debt management plans -- what each is, what each costs, and who they actually help.
+Consolidation loans, balance transfers, and debt management plans - what each is, what each costs, and who they actually help.
 
 Network › Consolidation vs Bankruptcy › How Consolidation Works
 
@@ -1453,13 +1453,13 @@ Debt consolidation means combining multiple debts into a single payment. The ide
 
 There are three main types of consolidation, and they work very differently:
 
-Consolidation loans -- a new loan that pays off existing debts
+Consolidation loans - a new loan that pays off existing debts
 
-Balance transfer credit cards -- moving balances to a card with a promotional rate
+Balance transfer credit cards - moving balances to a card with a promotional rate
 
-Debt management plans (DMPs) -- a structured repayment program through a credit counseling agency
+Debt management plans (DMPs) - a structured repayment program through a credit counseling agency
 
-None of these reduce the amount you owe. They restructure how you pay it. This is the fundamental difference between consolidation and bankruptcy -- consolidation means paying back every dollar (plus fees and interest), while bankruptcy can eliminate the debt entirely.
+None of these reduce the amount you owe. They restructure how you pay it. This is the fundamental difference between consolidation and bankruptcy - consolidation means paying back every dollar (plus fees and interest), while bankruptcy can eliminate the debt entirely.
 
 1. Consolidation Loans
 
@@ -1477,7 +1477,7 @@ Interest rates range from 6% to 36% depending on your credit score
 
 The Catch
 
-You need good credit to get a good rate. If your credit score is below 670, you will likely pay 15-36% APR -- often no better than the credit cards you are consolidating. Lenders charge origination fees of 1-8% of the loan amount.
+You need good credit to get a good rate. If your credit score is below 670, you will likely pay 15-36% APR - often no better than the credit cards you are consolidating. Lenders charge origination fees of 1-8% of the loan amount.
 
 Real Cost Example
 
@@ -1496,7 +1496,7 @@ Origination fee (3%)$750
 
 Total cost$36,450
 
-You borrowed $25,000 and paid back $36,450. That is $11,450 in fees and interest -- nearly half the original debt.
+You borrowed $25,000 and paid back $36,450. That is $11,450 in fees and interest - nearly half the original debt.
 
 2. Balance Transfer Credit Cards
 
@@ -1544,7 +1544,7 @@ Over a 5-year plan: $1,525-$4,575 in fees alone
 
 The Catch
 
-Creditors can refuse to participate. A DMP is voluntary -- creditors are not legally obligated to lower rates or accept the plan. If a major creditor refuses, the plan may not work.
+Creditors can refuse to participate. A DMP is voluntary - creditors are not legally obligated to lower rates or accept the plan. If a major creditor refuses, the plan may not work.
 
 You must close credit accounts enrolled in the DMP, which affects your credit utilization ratio and can lower your score.
 
@@ -1564,7 +1564,7 @@ Eliminate debt. You repay every dollar, plus interest and fees. Consolidation re
 
 Protect against creditor refusal. Any creditor can refuse to participate, continue collection, or file suit.
 
-For immediate legal protection, see The Automatic Stay -- the bankruptcy protection that stops all collection activity the moment you file.
+For immediate legal protection, see The Automatic Stay - the bankruptcy protection that stops all collection activity the moment you file.
 
 Bottom Line
 
@@ -1574,17 +1574,17 @@ Key question to ask: Will the total amount I pay through consolidation (principa
 
 Related Resources
 
-Total Cost Comparison -- Side-by-side cost analysis of consolidation vs bankruptcy
+Total Cost Comparison - Side-by-side cost analysis of consolidation vs bankruptcy
 
-When Consolidation Fails -- Warning signs and debt traps
+When Consolidation Fails - Warning signs and debt traps
 
-How Much Does Bankruptcy Cost? -- Compare the alternative
+How Much Does Bankruptcy Cost? - Compare the alternative
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1679,7 +1679,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Debt Consolidation vs Bankruptcy -- Compare Costs, Credit Impact [2026]
+## Debt Consolidation vs Bankruptcy - Compare Costs, Credit Impact [2026]
 Source: https://debtconsolidationvsbankruptcy.com/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -1699,7 +1699,7 @@ Who Profits
 Calculator
 FAQ
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Debt Consolidation vs Bankruptcy
 
@@ -1770,7 +1770,7 @@ $1,500-$2,800
 Varies by income
 
 Debt Eliminated
-None -- you repay 100%+ interest
+None - you repay 100%+ interest
 Most unsecured debt discharged
 Remaining balance discharged
 
@@ -1795,9 +1795,9 @@ Stays on during repayment
 7 years
 
 Creditor Cooperation Required
-Yes -- creditors can refuse
-No -- court order
-No -- court order
+Yes - creditors can refuse
+No - court order
+No - court order
 
 When Consolidation Makes Sense
 
@@ -1817,7 +1817,7 @@ You are not being sued, garnished, or threatened with repossession
 
 The underlying cause of the debt has been resolved
 
-If even one of those conditions is not met, consolidation is likely to fail -- and you will have spent months or years making payments only to end up in the same position, or worse.
+If even one of those conditions is not met, consolidation is likely to fail - and you will have spent months or years making payments only to end up in the same position, or worse.
 
 When Bankruptcy Is the Better Option
 
@@ -1859,7 +1859,7 @@ The most important question is simple: how much will each option cost you in tot
 
 A Chapter 7 bankruptcy typically costs $1,500-$2,800 (filing fee + attorney) and takes 3-4 months. After that, you owe nothing on discharged debts.
 
-A consolidation program on $30,000 of credit card debt at 15% interest over 5 years costs approximately $12,900 in interest alone -- plus any program fees. And you must successfully complete all 60 months of payments.
+A consolidation program on $30,000 of credit card debt at 15% interest over 5 years costs approximately $12,900 in interest alone - plus any program fees. And you must successfully complete all 60 months of payments.
 
 Break-even example: If you are paying $600/month toward consolidated debt for 5 years ($36,000 total on $30,000 of debt), a Chapter 7 filing at $2,000 total cost saves you $34,000 and 5 years of payments. Even if bankruptcy drops your credit score by 200 points, the financial math is not close.
 
@@ -1893,7 +1893,7 @@ Debt consolidation combines multiple debts into one payment, usually through a p
 
 When should I file bankruptcy instead of consolidating?
 
-Consider bankruptcy when your debt exceeds 40% of your gross income, you are being sued or garnished, you cannot afford consolidation payments, or you have already tried consolidation and fallen behind again. Bankruptcy provides legal protections -- like the automatic stay -- that consolidation does not.
+Consider bankruptcy when your debt exceeds 40% of your gross income, you are being sued or garnished, you cannot afford consolidation payments, or you have already tried consolidation and fallen behind again. Bankruptcy provides legal protections - like the automatic stay - that consolidation does not.
 
 Not Sure Which Path Is Right?
 
@@ -1904,21 +1904,21 @@ Read the FAQ
 
 Related Resources
 
-Means Test Calculator -- See if you qualify for Chapter 7 bankruptcy
+Means Test Calculator - See if you qualify for Chapter 7 bankruptcy
 
-How Much Does Bankruptcy Cost? -- Complete guide to bankruptcy fees
+How Much Does Bankruptcy Cost? - Complete guide to bankruptcy fees
 
-Chapter 7 vs Chapter 13 -- Which bankruptcy chapter is right for you?
+Chapter 7 vs Chapter 13 - Which bankruptcy chapter is right for you?
 
-Credit Card Debt and Bankruptcy -- How bankruptcy handles credit card debt
+Credit Card Debt and Bankruptcy - How bankruptcy handles credit card debt
 
-The Automatic Stay -- Immediate legal protection when you file
+The Automatic Stay - Immediate legal protection when you file
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1993,7 +1993,7 @@ howmuchdoesbankruptcycost.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -2131,6 +2131,7 @@ automaticstay.org
 341meeting.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
@@ -2138,6 +2139,8 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 Privacy | Terms | Open Bankruptcy Project
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -2205,11 +2208,11 @@ Eligibility is verified upfront. The means test screens out people who do not qu
 
 No payment fatigue. There is nothing to "keep up with" for years. Once filed, the process runs its course.
 
-The small percentage of Chapter 7 cases that do not result in discharge involve situations like fraud, failure to complete required courses, or voluntary dismissal -- not inability to pay.
+The small percentage of Chapter 7 cases that do not result in discharge involve situations like fraud, failure to complete required courses, or voluntary dismissal - not inability to pay.
 
 Consolidation: Why More Than Half Fail
 
-The question is not why consolidation has a low success rate -- it is why anyone would expect a high one. Consider what consolidation requires:
+The question is not why consolidation has a low success rate - it is why anyone would expect a high one. Consider what consolidation requires:
 
 3-5 years of consistent payments with no financial disruptions
 
@@ -2267,21 +2270,21 @@ Consider the downside of failure:
 
 If Chapter 7 "fails" (rare): You paid $1,500-$2,800 but did not get a discharge. You can try again.
 
-If consolidation fails (common): You paid thousands in fees and interest over months or years, your credit is damaged from the experience, and you still owe the original debt. You may end up filing bankruptcy anyway -- having lost both money and time.
+If consolidation fails (common): You paid thousands in fees and interest over months or years, your credit is damaged from the experience, and you still owe the original debt. You may end up filing bankruptcy anyway - having lost both money and time.
 
 Related Resources
 
-When Consolidation Fails -- What happens when you drop out
+When Consolidation Fails - What happens when you drop out
 
-Cost Comparison -- Total cost analysis
+Cost Comparison - Total cost analysis
 
-Discharge Eligibility Screener -- Check your bankruptcy discharge eligibility
+Discharge Eligibility Screener - Check your bankruptcy discharge eligibility
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -2375,7 +2378,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## When Debt Consolidation Fails -- Warning Signs and Debt Traps
+## When Debt Consolidation Fails - Warning Signs and Debt Traps
 Source: https://debtconsolidationvsbankruptcy.com/when-consolidation-fails.html
 
 Skip to main content
@@ -2415,7 +2418,7 @@ Total debt is higher than before consolidation.
 
 Take out another consolidation loan. Repeat from step 2.
 
-Studies show that 70%+ of consumers who consolidate credit card debt accumulate new card balances within 3 years. The consolidation did not solve the problem -- it freed up credit lines that got used again. The fundamental issue (spending exceeding income, or income being insufficient for basic needs) was never addressed.
+Studies show that 70%+ of consumers who consolidate credit card debt accumulate new card balances within 3 years. The consolidation did not solve the problem - it freed up credit lines that got used again. The fundamental issue (spending exceeding income, or income being insufficient for basic needs) was never addressed.
 
 Warning Signs Consolidation Is Failing
 
@@ -2457,11 +2460,11 @@ The worst-case scenario: You spend 18 months in a DMP, pay $10,000+ toward your 
 
 The Sunk Cost Trap
 
-One of the most psychologically powerful forces keeping people in failing consolidation programs is sunk cost bias. "I have already paid $8,000 into this plan -- I cannot quit now or I'll lose everything I paid."
+One of the most psychologically powerful forces keeping people in failing consolidation programs is sunk cost bias. "I have already paid $8,000 into this plan - I cannot quit now or I'll lose everything I paid."
 
 But the $8,000 is gone regardless. The question is not whether you can get that money back (you cannot). The question is: what is the cheapest path forward from where you are right now?
 
-The math does not care about sunk costs. If you have $20,000 remaining on a failing consolidation plan and Chapter 7 costs $2,000, the bankruptcy saves you $18,000+ going forward -- regardless of how much you already paid into the plan.
+The math does not care about sunk costs. If you have $20,000 remaining on a failing consolidation plan and Chapter 7 costs $2,000, the bankruptcy saves you $18,000+ going forward - regardless of how much you already paid into the plan.
 
 When to Cut Your Losses
 
@@ -2475,19 +2478,19 @@ Credit recovery starts sooner. The sooner you file, the sooner you discharge, an
 
 Related Resources
 
-Calculator -- Compare your current consolidation cost vs bankruptcy
+Calculator - Compare your current consolidation cost vs bankruptcy
 
-How Bankruptcy Works -- What happens when you file
+How Bankruptcy Works - What happens when you file
 
-The Automatic Stay -- Immediate protection from creditors
+The Automatic Stay - Immediate protection from creditors
 
-Means Test -- Check if you qualify for Chapter 7
+Means Test - Check if you qualify for Chapter 7
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -2607,7 +2610,7 @@ Network › Consolidation vs Bankruptcy › Who Profits
 
 The Money Flow
 
-When you enter a debt consolidation program, multiple entities get paid -- from your money, while you are in financial distress. Understanding who profits and how much helps explain why consolidation is marketed so aggressively.
+When you enter a debt consolidation program, multiple entities get paid - from your money, while you are in financial distress. Understanding who profits and how much helps explain why consolidation is marketed so aggressively.
 
 Who
 How They Profit
@@ -2639,19 +2642,19 @@ $50-$500 per customer
 
 The Credit Counseling Industry
 
-Many credit counseling agencies are structured as nonprofits. The "nonprofit" label is misleading. It means the organization does not distribute profits to shareholders -- it does not mean the services are free or that executives are not well-compensated.
+Many credit counseling agencies are structured as nonprofits. The "nonprofit" label is misleading. It means the organization does not distribute profits to shareholders - it does not mean the services are free or that executives are not well-compensated.
 
 How "Nonprofit" Agencies Make Money
 
-Fair share contributions: Creditors pay the agency 1-15% of each payment processed. This creates a conflict of interest -- the agency is financially incentivized to keep you paying creditors rather than recommend bankruptcy, even when bankruptcy is the better option.
+Fair share contributions: Creditors pay the agency 1-15% of each payment processed. This creates a conflict of interest - the agency is financially incentivized to keep you paying creditors rather than recommend bankruptcy, even when bankruptcy is the better option.
 
 Monthly fees: $25-75/month from every enrolled consumer
 
 Education course fees: Congress mandated credit counseling before bankruptcy filing (BAPCPA 2005), creating a guaranteed revenue stream from people who ultimately file anyway
 
-Grants and donations: Often from credit card companies and banks -- the same entities that benefit when consumers repay instead of filing bankruptcy
+Grants and donations: Often from credit card companies and banks - the same entities that benefit when consumers repay instead of filing bankruptcy
 
-The BAPCPA connection: The 2005 bankruptcy reform law (BAPCPA) was heavily lobbied by the credit card industry. One provision requires consumers to complete credit counseling from an approved agency before filing bankruptcy. This requirement channels every potential bankruptcy filer through the credit counseling industry first -- giving them a chance to divert consumers into DMPs instead.
+The BAPCPA connection: The 2005 bankruptcy reform law (BAPCPA) was heavily lobbied by the credit card industry. One provision requires consumers to complete credit counseling from an approved agency before filing bankruptcy. This requirement channels every potential bankruptcy filer through the credit counseling industry first - giving them a chance to divert consumers into DMPs instead.
 
 The Debt Settlement Industry
 
@@ -2673,9 +2676,9 @@ FTC enforcement actions have targeted numerous debt settlement companies for dec
 
 The Consolidation Loan Industry
 
-Personal loan lenders -- including banks, credit unions, and fintech companies -- profit from interest charged over the life of the loan. The less creditworthy the borrower, the higher the rate, and the more profitable the loan.
+Personal loan lenders - including banks, credit unions, and fintech companies - profit from interest charged over the life of the loan. The less creditworthy the borrower, the higher the rate, and the more profitable the loan.
 
-The irony: People seeking consolidation loans typically have damaged credit. This means they qualify for higher interest rates -- often 15-36% APR. At these rates, the total interest paid can approach or exceed the original debt. The lender profits from the borrower's financial distress.
+The irony: People seeking consolidation loans typically have damaged credit. This means they qualify for higher interest rates - often 15-36% APR. At these rates, the total interest paid can approach or exceed the original debt. The lender profits from the borrower's financial distress.
 
 Origination Fees
 
@@ -2689,9 +2692,9 @@ This is why you receive aggressive phone calls and emails after expressing inter
 
 Who Does NOT Profit from Bankruptcy?
 
-Creditors do not profit from bankruptcy -- which is exactly why they lobby against it and fund alternatives that keep consumers paying.
+Creditors do not profit from bankruptcy - which is exactly why they lobby against it and fund alternatives that keep consumers paying.
 
-Bankruptcy attorneys earn modest fees -- Chapter 7 attorney fees ($1,000-$2,500) are a fraction of what the consolidation industry extracts.
+Bankruptcy attorneys earn modest fees - Chapter 7 attorney fees ($1,000-$2,500) are a fraction of what the consolidation industry extracts.
 
 The court charges a filing fee ($338 for Chapter 7) that can be waived for low-income filers.
 
@@ -2701,23 +2704,23 @@ The Question to Ask
 
 When someone recommends debt consolidation over bankruptcy, ask: Who profits from that recommendation?
 
-If the answer is "the person making the recommendation" -- whether through fees, commissions, fair share payments, or affiliate revenue -- consider whether you are receiving financial advice or a sales pitch.
+If the answer is "the person making the recommendation" - whether through fees, commissions, fair share payments, or affiliate revenue - consider whether you are receiving financial advice or a sales pitch.
 
 This site has no affiliate links, no referral fees, and no financial relationship with any debt relief provider, lender, or bankruptcy attorney. We do not profit from your decision either way.
 
 Related Resources
 
-Success Rates -- How often consolidation actually works
+Success Rates - How often consolidation actually works
 
-When Consolidation Fails -- The consequences of program dropout
+When Consolidation Fails - The consequences of program dropout
 
-Cost Comparison -- Total cost side-by-side
+Cost Comparison - Total cost side-by-side
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -2808,3 +2811,75 @@ Privacy | Terms | Open Bankruptcy Project
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - debtconsolidationvsbankruptcy.com
+Source: https://debtconsolidationvsbankruptcy.com/privacy.html
+
+debtconsolidationvsbankruptcy.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
