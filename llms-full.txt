@@ -1298,7 +1298,7 @@ Timeline3-4 months3-5 years
 
 Income requirementMust pass means testMust have regular income
 
-Debt limitNone$2,750,000 (combined)
+Debt limitNoneUnder $526,700 unsecured; under $1,580,125 secured
 
 Keep propertyExempt property onlyAll property
 
