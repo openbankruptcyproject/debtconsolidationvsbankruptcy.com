@@ -1,7 +1,7 @@
 # Debt Consolidation vs Bankruptcy - Compare Costs, Credit Impact [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Debt consolidation vs bankruptcy: compare costs, credit impact, and outcomes. Which is right for you? Data-driven 2026 comparison guide.
+> Debt consolidation vs bankruptcy (also consolidation vs bankruptcy, bankruptcy vs debt consolidation): compare costs, credit impact, and outcomes.
 
 ## About
 debtconsolidationvsbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -10,15 +10,68 @@ debtconsolidationvsbankruptcy.com is part of the Open Bankruptcy Project (openba
 - Debt Consolidation vs Bankruptcy Calculator - Compare Total Costs: https://debtconsolidationvsbankruptcy.com/calculator.html
 - Debt Consolidation vs Bankruptcy: Head-to-Head Comparison (2026): https://debtconsolidationvsbankruptcy.com/comparison.html
 - Cost Comparison: Debt Consolidation vs Bankruptcy - Total Cost Analysis: https://debtconsolidationvsbankruptcy.com/cost-comparison.html
-- Credit Score Impact: Debt Consolidation vs Bankruptcy Over Time: https://debtconsolidationvsbankruptcy.com/credit-impact.html
-- FAQ - Debt Consolidation vs Bankruptcy: https://debtconsolidationvsbankruptcy.com/faq.html
+- Credit Score: Consolidation vs Bankruptcy [2026]: 24-Month and 5-Year Score Trajectories: https://debtconsolidationvsbankruptcy.com/credit-impact.html
+- Consolidation vs Bankruptcy FAQ [2026]: 15 Decision Questions Answered: https://debtconsolidationvsbankruptcy.com/faq.html
 - How Bankruptcy Works as a Debt Solution - Chapter 7 and Chapter 13 - Debt Consolidation: https://debtconsolidationvsbankruptcy.com/how-bankruptcy-works.html
 - How Debt Consolidation Works - Loans, Balance Transfers, and DMPs: https://debtconsolidationvsbankruptcy.com/how-consolidation-works.html
 - Debt Consolidation vs Bankruptcy - Compare Costs, Credit Impact: https://debtconsolidationvsbankruptcy.com/
-- Success Rates: Debt Consolidation vs Bankruptcy Discharge Rates: https://debtconsolidationvsbankruptcy.com/success-rates.html
-- When Debt Consolidation Fails - Warning Signs and Debt Traps: https://debtconsolidationvsbankruptcy.com/when-consolidation-fails.html
-- Who Profits from Debt Consolidation? Follow the Money: https://debtconsolidationvsbankruptcy.com/who-profits.html
+- Consolidation vs Bankruptcy Success Rates [2026]: Federal Court Discharge Data vs Lender Data: https://debtconsolidationvsbankruptcy.com/success-rates.html
+- When Debt Consolidation Fails [2026]: Default Triggers, Acceleration, and Fresh-Start Math: https://debtconsolidationvsbankruptcy.com/when-consolidation-fails.html
+- Who Profits from Debt Consolidation [2026]: Lenders, Marketers, and Fee Stacks: https://debtconsolidationvsbankruptcy.com/who-profits.html
 - Privacy Policy: https://debtconsolidationvsbankruptcy.com/privacy.html
+- About debtconsolidationvsbankruptcy.com: https://debtconsolidationvsbankruptcy.com/about.html
+- Debt Consolidation vs Bankruptcy in Alabama [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/alabama.html
+- Debt Consolidation vs Bankruptcy in Alaska [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/alaska.html
+- Debt Consolidation vs Bankruptcy in Arizona [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/arizona.html
+- Debt Consolidation vs Bankruptcy in Arkansas [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/arkansas.html
+- Debt Consolidation vs Bankruptcy in California [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/california.html
+- Debt Consolidation vs Bankruptcy in Colorado [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/colorado.html
+- Debt Consolidation vs Bankruptcy in Connecticut [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/connecticut.html
+- Debt Consolidation vs Bankruptcy in Delaware [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/delaware.html
+- Debt Consolidation vs Bankruptcy in District of Columbia [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/district-of-columbia.html
+- Debt Consolidation vs Bankruptcy in Florida [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/florida.html
+- Debt Consolidation vs Bankruptcy in Georgia [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/georgia.html
+- Debt Consolidation vs Bankruptcy in Hawaii [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/hawaii.html
+- Debt Consolidation vs Bankruptcy in Idaho [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/idaho.html
+- Debt Consolidation vs Bankruptcy in Illinois [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/illinois.html
+- Debt Consolidation vs Bankruptcy by State by State: https://debtconsolidationvsbankruptcy.com/states/
+- Debt Consolidation vs Bankruptcy in Indiana [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/indiana.html
+- Debt Consolidation vs Bankruptcy in Iowa [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/iowa.html
+- Debt Consolidation vs Bankruptcy in Kansas [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/kansas.html
+- Debt Consolidation vs Bankruptcy in Kentucky [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/kentucky.html
+- Debt Consolidation vs Bankruptcy in Louisiana [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/louisiana.html
+- Debt Consolidation vs Bankruptcy in Maine [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/maine.html
+- Debt Consolidation vs Bankruptcy in Maryland [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/maryland.html
+- Debt Consolidation vs Bankruptcy in Massachusetts [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/massachusetts.html
+- Debt Consolidation vs Bankruptcy in Michigan [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/michigan.html
+- Debt Consolidation vs Bankruptcy in Minnesota [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/minnesota.html
+- Debt Consolidation vs Bankruptcy in Mississippi [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/mississippi.html
+- Debt Consolidation vs Bankruptcy in Missouri [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/missouri.html
+- Debt Consolidation vs Bankruptcy in Montana [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/montana.html
+- Debt Consolidation vs Bankruptcy in Nebraska [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/nebraska.html
+- Debt Consolidation vs Bankruptcy in Nevada [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/nevada.html
+- Debt Consolidation vs Bankruptcy in New Hampshire [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/new-hampshire.html
+- Debt Consolidation vs Bankruptcy in New Jersey [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/new-jersey.html
+- Debt Consolidation vs Bankruptcy in New Mexico [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/new-mexico.html
+- Debt Consolidation vs Bankruptcy in New York [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/new-york.html
+- Debt Consolidation vs Bankruptcy in North Carolina [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/north-carolina.html
+- Debt Consolidation vs Bankruptcy in North Dakota [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/north-dakota.html
+- Debt Consolidation vs Bankruptcy in Ohio [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/ohio.html
+- Debt Consolidation vs Bankruptcy in Oklahoma [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/oklahoma.html
+- Debt Consolidation vs Bankruptcy in Oregon [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/oregon.html
+- Debt Consolidation vs Bankruptcy in Pennsylvania [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/pennsylvania.html
+- Debt Consolidation vs Bankruptcy in Rhode Island [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/rhode-island.html
+- Debt Consolidation vs Bankruptcy in South Carolina [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/south-carolina.html
+- Debt Consolidation vs Bankruptcy in South Dakota [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/south-dakota.html
+- Debt Consolidation vs Bankruptcy in Tennessee [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/tennessee.html
+- Debt Consolidation vs Bankruptcy in Texas [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/texas.html
+- Debt Consolidation vs Bankruptcy in Utah [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/utah.html
+- Debt Consolidation vs Bankruptcy in Vermont [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/vermont.html
+- Debt Consolidation vs Bankruptcy in Virginia [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/virginia.html
+- Debt Consolidation vs Bankruptcy in Washington [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/washington.html
+- Debt Consolidation vs Bankruptcy in West Virginia [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/west-virginia.html
+- Debt Consolidation vs Bankruptcy in Wisconsin [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/wisconsin.html
+- Debt Consolidation vs Bankruptcy in Wyoming [2026]: DMP Rules + Exemptions: https://debtconsolidationvsbankruptcy.com/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
